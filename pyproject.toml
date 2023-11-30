@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "cartminder"
+version = "0.1.0"
+description = ""
+authors = ["Albert Fazlyev <albert.fz@yandex.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+yargy = "^0.16.0"
+sherpa-onnx = "^1.8.11"
+sounddevice = "^0.4.6"
+soundfile = "^0.12.1"
+
+[[tool.poetry.source]]
+name = "torch_cpu"
+url = "https://download.pytorch.org/whl/cpu/"
+priority = "supplemental"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
