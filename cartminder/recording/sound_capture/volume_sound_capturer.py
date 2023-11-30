@@ -7,7 +7,6 @@ from typing import Iterable
 from cartminder.recording.sound_capture.abstract_sound_capturer import AbstractSoundCapturer
 
 class VolumeSoundCapturer(AbstractSoundCapturer):
-
     def __init__(
         self, 
         sample_rate: int = 16000, 
