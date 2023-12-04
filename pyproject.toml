@@ -12,6 +12,8 @@ sherpa-onnx = "^1.8.11"
 sounddevice = "^0.4.6"
 soundfile = "^0.12.1"
 watchdog = "^3.0.0"
+requests = "^2.31.0"
+pydantic-settings = "^2.1.0"
 
 [[tool.poetry.source]]
 name = "torch_cpu"
