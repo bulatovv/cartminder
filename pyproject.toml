@@ -6,7 +6,7 @@ authors = ["Albert Fazlyev <albert.fz@yandex.ru>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 yargy = "^0.16.0"
 sherpa-onnx = "^1.8.11"
 sounddevice = "^0.4.6"
@@ -14,6 +14,8 @@ soundfile = "^0.12.1"
 watchdog = "^3.0.0"
 requests = "^2.31.0"
 pydantic-settings = "^2.1.0"
+ndjson = "^0.3.1"
+persist-queue = "^0.8.1"
 
 [[tool.poetry.source]]
 name = "torch_cpu"
