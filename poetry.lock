@@ -648,52 +648,45 @@ files = [
 
 [[package]]
 name = "sherpa-onnx"
-version = "1.8.14"
+version = "1.9.0"
 description = ""
 optional = false
 python-versions = ">=3.6"
 files = [
-    {file = "sherpa-onnx-1.8.14.tar.gz", hash = "sha256:615c6fa2cd85dc3e7bb3beceb261b202852309719bee6aac676505a5cfcac630"},
-    {file = "sherpa_onnx-1.8.14-cp310-cp310-linux_armv7l.whl", hash = "sha256:f2d6cdbcd9bc5ca9a2376c353ff8d1fd5b61ac4bf8dafd705cbb9c60bc373b2e"},
-    {file = "sherpa_onnx-1.8.14-cp310-cp310-macosx_10_14_x86_64.whl", hash = "sha256:befb222de1bccde0961a7d020bfac7ccbf4eee4f940cd5ac881bfd8a31ff7781"},
-    {file = "sherpa_onnx-1.8.14-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:5dcc902ef23ee55da8cc2b4f44fd122e353ba04df48391def4c2fbdbe5c95979"},
-    {file = "sherpa_onnx-1.8.14-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:562d3f0880338b9c929e9fda500638db6a872594a8b7af2d7fbfa7cd79f22e3c"},
-    {file = "sherpa_onnx-1.8.14-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:ab78768bea8562de88639417044fdbad99fd38ff3ff8a927f243419792cdf719"},
-    {file = "sherpa_onnx-1.8.14-cp310-cp310-win32.whl", hash = "sha256:63a0484eb9c4ca49340ed6e8701f302280c7086aaa31630f6b7aa41ee02eb811"},
-    {file = "sherpa_onnx-1.8.14-cp310-cp310-win_amd64.whl", hash = "sha256:937ec89ea09b187fd1d804c9b39b7d9d57bc8cf2b165a5857eb3631d802c9db3"},
-    {file = "sherpa_onnx-1.8.14-cp311-cp311-linux_armv7l.whl", hash = "sha256:60530b10e929d3e63984259c36a7a5ed9a61d9d095b737c3b70bf22728994fd0"},
-    {file = "sherpa_onnx-1.8.14-cp311-cp311-macosx_10_14_x86_64.whl", hash = "sha256:b68108bd30f904143bbc77cdb4bbda17a62e65fe923140b7147febcdd24ff632"},
-    {file = "sherpa_onnx-1.8.14-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:a30a9338e3b72e591983fcb65841e3d40dec4a67a14cd90e1f0528f7b1c636a5"},
-    {file = "sherpa_onnx-1.8.14-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:e7a14f045765ea0d7294e53937103590a0428f4a88b7cd5c916ed4f5fb4b8760"},
-    {file = "sherpa_onnx-1.8.14-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:597b6665a981a25f7ec1a4884de6df4a50dd7abe2954481d6c89bc7800e037ad"},
-    {file = "sherpa_onnx-1.8.14-cp311-cp311-win32.whl", hash = "sha256:fa5845c7d91701b28b8dad8839b6e1313c50a159aed75fb61708a445abc97975"},
-    {file = "sherpa_onnx-1.8.14-cp311-cp311-win_amd64.whl", hash = "sha256:65ae4669942b091ed54b5990463d4019a6b63c46ea2ed75c9da7a51678c11b04"},
-    {file = "sherpa_onnx-1.8.14-cp312-cp312-macosx_10_14_x86_64.whl", hash = "sha256:382182c1970ea95b7903fc066621e04f4a8305bd3c0ab41f5deca7ca34b11672"},
-    {file = "sherpa_onnx-1.8.14-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:72d98fa01317251085bfc9edcccadbfdd26720bd7260bdffc6bcd1d71c389d26"},
-    {file = "sherpa_onnx-1.8.14-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:e2f237fa48a8645bcae51a3699c512a9d0fd76ebce19dd82775c688b23c25da2"},
-    {file = "sherpa_onnx-1.8.14-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:685a3104e19f9b0cb2a6add33121e8abed1a6b994e293c560cca30c650ef5530"},
-    {file = "sherpa_onnx-1.8.14-cp312-cp312-win32.whl", hash = "sha256:187f85cc137dc1b107a13f7044be4bd1f6e2b4aa5db8abe075702713e9b988a1"},
-    {file = "sherpa_onnx-1.8.14-cp312-cp312-win_amd64.whl", hash = "sha256:85c47f4e42c986dc8f8613530d891cbecf8a70fe03982abf559dcc93083a285e"},
-    {file = "sherpa_onnx-1.8.14-cp37-cp37m-linux_armv7l.whl", hash = "sha256:7ea128792d4da84fc89fc0a03916c83e507f71df4c77b95a1f633b3d92fa70b3"},
-    {file = "sherpa_onnx-1.8.14-cp37-cp37m-macosx_10_14_x86_64.whl", hash = "sha256:c9decdbffe4594e6972455f1fe3fdabe95efdb654029df5685ea1e14bb11ca1e"},
-    {file = "sherpa_onnx-1.8.14-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:a77aba6c0aed351d2f40a24f15ca451a01cafdde28a097f5409eb892baa21f2e"},
-    {file = "sherpa_onnx-1.8.14-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:dc2dbdef237b5ce0d1bcc422d254516eb3762c84d9e6b7ed70c8917b5a26b3f9"},
-    {file = "sherpa_onnx-1.8.14-cp37-cp37m-win32.whl", hash = "sha256:a259a0456b0970d9be607db36f03dd4b7bb96a622eaadf118d4b7200a36556a1"},
-    {file = "sherpa_onnx-1.8.14-cp37-cp37m-win_amd64.whl", hash = "sha256:9e39a219517d2efd7e4f2cb1995a8feef62d29b419edb6cdeb8908fac8355313"},
-    {file = "sherpa_onnx-1.8.14-cp38-cp38-linux_armv7l.whl", hash = "sha256:4cabff234a847c2cdf7a52ced901259d3a3ab9a2e54e705dda012c7f01d9107d"},
-    {file = "sherpa_onnx-1.8.14-cp38-cp38-macosx_10_14_x86_64.whl", hash = "sha256:ebe35f0568de82c584ff7dda4c49ae0c995b105dd2991a6a93d7f7182c30ef4b"},
-    {file = "sherpa_onnx-1.8.14-cp38-cp38-macosx_11_0_arm64.whl", hash = "sha256:909c124da3c667e9d6637094d52e6fd6b1a19a6f6105c79beba02c169b3277fb"},
-    {file = "sherpa_onnx-1.8.14-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:e4cb34de3a70e7ebaccb2e741b4430e2935b18f1ac3491b2abff672f68290ab6"},
-    {file = "sherpa_onnx-1.8.14-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:117403880d259cc1a030ba38c586ae57daa52ec8406f4a2cce6eca8ca31561b6"},
-    {file = "sherpa_onnx-1.8.14-cp38-cp38-win32.whl", hash = "sha256:6947a7c787d4fe57ebeb3e0f74482b5a141755bca9643299b07c32c38fe3f9af"},
-    {file = "sherpa_onnx-1.8.14-cp38-cp38-win_amd64.whl", hash = "sha256:3c187e8afbb72539f64a2f53dec22545ddc4c7d41a2d0dbcc49c0e5d7490b4e2"},
-    {file = "sherpa_onnx-1.8.14-cp39-cp39-linux_armv7l.whl", hash = "sha256:9a86a07e4cc5a35c7ae456349b19f3b82e43fe915e30ce31171fd6395e1cabb7"},
-    {file = "sherpa_onnx-1.8.14-cp39-cp39-macosx_10_14_x86_64.whl", hash = "sha256:a1ee2b69a3cd4cfdaf24ba8d2fbb8bb2dd26cabe9544812721857ee3b3664d05"},
-    {file = "sherpa_onnx-1.8.14-cp39-cp39-macosx_11_0_arm64.whl", hash = "sha256:4b213eb4095ca9eabf7d46c9d5d9280cdf8eab19065a0b2048ba20ef5a38ed26"},
-    {file = "sherpa_onnx-1.8.14-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:a229e914c1b0f9a0cafc6df13c0e6190cc1757d95be698a303eb80358f26ef82"},
-    {file = "sherpa_onnx-1.8.14-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:ea0c26d32b870083145a8dda8d47d57e925662f8ea5ad52d542b453d8b26f0c1"},
-    {file = "sherpa_onnx-1.8.14-cp39-cp39-win32.whl", hash = "sha256:d6d26327657a4014a2f66666cee7e76468753fdce9e9eb1a503a80acc042003b"},
-    {file = "sherpa_onnx-1.8.14-cp39-cp39-win_amd64.whl", hash = "sha256:414eb650ed61fc5ef6ba63a99f4580080cb422178bc5ddb73dbc869d6c8e91ab"},
+    {file = "sherpa-onnx-1.9.0.tar.gz", hash = "sha256:241a382de42eb4c7153e9c62ff998df76deb51a5da35160d38d0d2d17561c191"},
+    {file = "sherpa_onnx-1.9.0-cp310-cp310-linux_armv7l.whl", hash = "sha256:8d6c52185e5ecbd0de1f063c7eca88785f71875fab543bd97cb24c91854bb6a5"},
+    {file = "sherpa_onnx-1.9.0-cp310-cp310-macosx_10_14_x86_64.whl", hash = "sha256:98ae9e2bd7e921dee2b3e922ca33356e05aed7221994db286be2ab201972eaa2"},
+    {file = "sherpa_onnx-1.9.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:49a54e5c6edb93f84e6dd06c6ceba32cf2cb0591eda6539416cc6e9dbb06d320"},
+    {file = "sherpa_onnx-1.9.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:bb4c945abc3f0d9a8eafaaabd449f816904dc9837b030a404a68c770321432b5"},
+    {file = "sherpa_onnx-1.9.0-cp310-cp310-win32.whl", hash = "sha256:654ba587f7dae4febf4e35ade7530df005ea811050e6b8138b23471a7e9dcfdb"},
+    {file = "sherpa_onnx-1.9.0-cp310-cp310-win_amd64.whl", hash = "sha256:e7c0cdafd339b7b2d95fb5cd12f2f2d1beadb543e0d3feb4a2b7093367701532"},
+    {file = "sherpa_onnx-1.9.0-cp311-cp311-linux_armv7l.whl", hash = "sha256:30f588d54807e0f501e7c9191fc858cb9037594be1dfb2b0842716261146ad87"},
+    {file = "sherpa_onnx-1.9.0-cp311-cp311-macosx_10_14_x86_64.whl", hash = "sha256:61d5abb1bc692e869bd7b7f18709c417474347ddd4a282dd7c463eb05abdb6e7"},
+    {file = "sherpa_onnx-1.9.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:740c90d8049f8cd273cceeb5ce1737b4cf191e6270bc48935d9d504a9852cec3"},
+    {file = "sherpa_onnx-1.9.0-cp311-cp311-win32.whl", hash = "sha256:b0f899922c654048d07ed51302a339dbfa81f87cf73895e8811b1e46e04b4185"},
+    {file = "sherpa_onnx-1.9.0-cp311-cp311-win_amd64.whl", hash = "sha256:c73cd2e3f0bd34b1764a1862ec45f89fc4aed5fa59ed59fac28cbc7871525267"},
+    {file = "sherpa_onnx-1.9.0-cp312-cp312-macosx_10_14_x86_64.whl", hash = "sha256:d6409598c83af76021b4cf39a05e92443e22b01359450172e8bfa92ea9765047"},
+    {file = "sherpa_onnx-1.9.0-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:d2ab5e67d8e17c7c47f7e03bd93bd995e01c1f4fe222ac81c5a5c0f5d52dae83"},
+    {file = "sherpa_onnx-1.9.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:2f7eb643061d1d86de4ed3725532531141cd50858736cfd0d240ba3fd2100e2e"},
+    {file = "sherpa_onnx-1.9.0-cp312-cp312-win32.whl", hash = "sha256:ede4ee5b3b180f76ae52e5bfb0048f8c70b3afa2da084748e89b297bbe4860df"},
+    {file = "sherpa_onnx-1.9.0-cp312-cp312-win_amd64.whl", hash = "sha256:08efdde2706becd1659e6b23eca5cd6de408acb573b7fe6b1f40f0bd480c3122"},
+    {file = "sherpa_onnx-1.9.0-cp37-cp37m-linux_armv7l.whl", hash = "sha256:cf828394fb4ca68ca811499b5a9f65f3721a2b59e96cdfc49aed1107ab74e625"},
+    {file = "sherpa_onnx-1.9.0-cp37-cp37m-macosx_10_14_x86_64.whl", hash = "sha256:8a848e08ad71a4f89fd9c9830ec1f4dfa4edacfcf4fa33b95b54fda30dfa9e35"},
+    {file = "sherpa_onnx-1.9.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:3efaa82892bd741fae28feb0a763040690de42013b8ab482b0daf3f0a15698fd"},
+    {file = "sherpa_onnx-1.9.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:dd1d38727aa33641733717ee2e848424208fa0e05ead46d36d7e9803fed4fa1d"},
+    {file = "sherpa_onnx-1.9.0-cp37-cp37m-win32.whl", hash = "sha256:c4b63d42e2631ba5daf900047e4e366ab6a960f6868207573d78babb0657ef7d"},
+    {file = "sherpa_onnx-1.9.0-cp37-cp37m-win_amd64.whl", hash = "sha256:bf98489ab95d577d82da3d1d11ec1eb975305291307a9f8ebc1bb8f573fba36c"},
+    {file = "sherpa_onnx-1.9.0-cp38-cp38-linux_armv7l.whl", hash = "sha256:eb697b987df1e328116c850df2f831e3e79a8ebfb987c2bd697fdd11d6deac59"},
+    {file = "sherpa_onnx-1.9.0-cp38-cp38-macosx_10_14_x86_64.whl", hash = "sha256:8d68683ba89016b8701de4d98d6dc5da8e734a5ba6240dce98b60ba066a974ad"},
+    {file = "sherpa_onnx-1.9.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:48fc0f52db58591731b94e8f916d10f50ca60703c8dd3a91e9cfae1c2ec40b91"},
+    {file = "sherpa_onnx-1.9.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:9ef7826b38ef241abbe24db3031b679e50e75b31080c60af4a0f924bdad644d3"},
+    {file = "sherpa_onnx-1.9.0-cp38-cp38-win32.whl", hash = "sha256:66a6ef00de908cf247efd7daf6e39243ec9b228606b7664e76302d989a2e3ec9"},
+    {file = "sherpa_onnx-1.9.0-cp38-cp38-win_amd64.whl", hash = "sha256:60edb81b58f9253c3222f487505f99c4b41cf079d4e162eee8295977dc05cbb8"},
+    {file = "sherpa_onnx-1.9.0-cp39-cp39-linux_armv7l.whl", hash = "sha256:bf153ff2b805dff26198130acdb39deba3d98bf3389f6fd5a57deb588d898775"},
+    {file = "sherpa_onnx-1.9.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:79fecca2e39114c273a70e503debf2833d07d2a0bf5434e8a6106716a08232d3"},
+    {file = "sherpa_onnx-1.9.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:99f70aa39f768583814fec96d2f6bf6fd21b74ff4381f1b33f09638ce23a5834"},
+    {file = "sherpa_onnx-1.9.0-cp39-cp39-win32.whl", hash = "sha256:bbf84e6d9c1ebb7675edb983fc6a6e2839a55e7c2fbb49d49caebada6c56b8dc"},
+    {file = "sherpa_onnx-1.9.0-cp39-cp39-win_amd64.whl", hash = "sha256:df7242649fd546aa5e3d22be08fcbc44b46ab6089a99207432a2704c8a63987b"},
 ]
 
 [package.dependencies]
@@ -830,4 +823,4 @@ pymorphy2 = "*"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "7f54205cb09bdbe4bc8e0980f6a9d0fcafc1d8c05f26e9ce8b844b2ac7cb97e6"
+content-hash = "1aa9210509dc2afb91e3ee6d43d114959c7b5b3c8155324743893dab87dc0da1"
