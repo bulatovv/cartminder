@@ -11,7 +11,7 @@ class VolumeSoundCapturer(AbstractSoundCapturer):
         self, 
         sample_rate: int = 16000, 
         block_size: int = 1024, 
-        volume_threshold: float = 10,
+        volume_threshold: float = 5,
         max_silence_seconds: int = 4,
     ):
         self.sample_rate: int = sample_rate
