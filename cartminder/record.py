@@ -9,10 +9,13 @@ if __name__ == "__main__":
         db_file_name="recordings.db"
     )
 
+    print("Loading capturer...")
     capturer = VolumeSoundCapturer()
+    
+    print("Loading recognizer...")
     recognizer = VoskSmallRecognizer()
 
-
+    print("Listening...")
     for capture in capturer.listen():
         text = recognizer.recognize(capture, capturer.sample_rate)
         print(text)
