@@ -4,7 +4,7 @@ import sounddevice as sd
 
 from typing import Iterable
 
-from cartminder.recording.sound_capture.abstract_sound_capturer import AbstractSoundCapturer
+from cartminder.sound_capture.abstract_sound_capturer import AbstractSoundCapturer
 
 class VolumeSoundCapturer(AbstractSoundCapturer):
     def __init__(

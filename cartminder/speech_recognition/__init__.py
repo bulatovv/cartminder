@@ -1,0 +1,1 @@
+from .vosk_small_recognizer import VoskSmallRecognizer

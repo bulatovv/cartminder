@@ -1,8 +1,8 @@
-from pydantic import Field
+from pydantic import Field, DirectoryPath
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 class Settings(BaseSettings):
-    recordings_storage_path: str = Field(..., env="RECORDINGS_STORAGE_PATH")
+    storage_path: DirectoryPath = Field(..., env="STORAGE_PATH")
     chat_id: int = Field(..., env="CHAT_ID")
     bot_token: str = Field(..., env="BOT_TOKEN")
 
