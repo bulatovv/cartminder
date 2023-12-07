@@ -1,14 +1,10 @@
-from persistqueue import SQLiteQueue
 from cartminder.speech_recognition import VoskSmallRecognizer
 from cartminder.sound_capture import VolumeSoundCapturer
 from cartminder.settings import settings
 
-if __name__ == "__main__":
-    output_queue = SQLiteQueue(
-        settings.storage_path,
-        db_file_name="recordings.db"
-    )
+import requests
 
+if __name__ == "__main__":
     print("Loading capturer...")
     capturer = VolumeSoundCapturer()
     
@@ -18,4 +14,12 @@ if __name__ == "__main__":
     print("Listening...")
     for capture in capturer.listen():
         text = recognizer.recognize(capture, capturer.sample_rate)
+       
+        params = {
+            "chat_id": settings.chat_id,
+            "text": text
+        }
+        r = requests.get("https://api.telegram.org/bot{}/sendMessage".format(settings.bot_token), params=params)
+        
+        print(r.status_code)
         print(text)
