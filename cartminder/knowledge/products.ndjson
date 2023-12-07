@@ -1,676 +1,676 @@
-{"category":"Фрукты и овощи","value":"Батат","aliases":["батат"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Патиссон","aliases":["патиссон"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Картофель","aliases":["картофель"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Свекла","aliases":["свекла"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Таро","aliases":["таро"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Лук репчатый","aliases":["лук репчатый"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Лук","aliases":["лук"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Баклажан","aliases":["баклажан"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Баклажаны","aliases":["баклажаны"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Перец болгарский","aliases":["перец болгарский"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Фасоль стручковая","aliases":["фасоль стручковая"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Тыква","aliases":["тыква"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Брюква","aliases":["брюква"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Васаби","aliases":["васаби"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Дайкон","aliases":["дайкон"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Имбирь","aliases":["имбирь"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Ямс","aliases":["ямс"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Корень имбиря","aliases":["корень имбиря"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Корень лопуха","aliases":["корень лопуха"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Лук-шалот","aliases":["лук-шалот"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Чеснок","aliases":["чеснок"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Морковь","aliases":["морковь"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Пастернак","aliases":["пастернак"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Редиска","aliases":["редиска"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Репа","aliases":["репа"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Физалис","aliases":["физалис"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Кабачки молодые","aliases":["кабачки молодые","молодые кабачки"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Помидоры","aliases":["помидоры"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Перец чили","aliases":["перец чили"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Кабачок","aliases":["кабачок"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Кабачки","aliases":["кабачки"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Огурцы","aliases":["огурцы"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Фасоль","aliases":["фасоль"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Арахис","aliases":["арахис"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Бобы","aliases":["бобы"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Бобы зелёные","aliases":["бобы зелёные","зелёные бобы"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Вигна","aliases":["вигна"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Горох","aliases":["горох"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Зелёный горошек","aliases":["зелёный горошек","горошек зелёный"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Маш","aliases":["маш"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Нут","aliases":["нут"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Чечевица","aliases":["чечевица"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Фасоль","aliases":["фасоль"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Брюссельская капуста","aliases":["брюссельская капуста","капуста брюссельская"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Жеруха","aliases":["жеруха"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Капуста   белокачанная","aliases":["капуста   белокачанная","капуста белокачанная"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Брокколи","aliases":["брокколи"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Брокколи китайская","aliases":["брокколи китайская","китайская брокколи"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Брокколи рааб","aliases":["брокколи рааб"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Капуста квашеная","aliases":["капуста квашеная"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Капуста","aliases":["капуста"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Капуста кудрявая","aliases":["капуста кудрявая"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Капуста листовая","aliases":["капуста листовая"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Капуста пекинская","aliases":["капуста пекинская","пекинская капуста"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Капуста савойская","aliases":["капуста савойская"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Кольраби","aliases":["кольраби"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Цветная капуста","aliases":["цветная капуста","капуста цветная"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Салат айсберг","aliases":["салат айсберг"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Артишоки","aliases":["артишоки"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Сельдерей","aliases":["сельдерей"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Бамия","aliases":["бамия"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Каперсы","aliases":["каперсы"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Спаржа","aliases":["спаржа"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Фенхель","aliases":["фенхель"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Чайот","aliases":["чайот"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Кукуруза","aliases":["кукуруза"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Базилик","aliases":["базилик"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Белокопытник","aliases":["белокопытник"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Ботва","aliases":["ботва"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Виноградные листья","aliases":["виноградные листья","листья виноградные"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Кинза","aliases":["кинза"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Кипрей","aliases":["кипрей"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Лебеда","aliases":["лебеда"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Лемонграсс","aliases":["лемонграсс"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Листовая горчица","aliases":["листовая горчица","горчица листовая"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Листья амаранта","aliases":["листья амаранта"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Листья одуванчика","aliases":["листья одуванчика"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Листья тыквы","aliases":["листья тыквы"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Листья цикория","aliases":["листья цикория"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Лук зелёный","aliases":["лук зелёный","зелёный лук"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Лук-батун","aliases":["лук-батун"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Лук-порей","aliases":["лук-порей"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Мангольд","aliases":["мангольд"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Марь","aliases":["марь"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Мята","aliases":["мята"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Петрушка","aliases":["петрушка"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Портулак","aliases":["портулак"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Ревеньстебель","aliases":["ревеньстебель"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Розмарин","aliases":["розмарин"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Руккола","aliases":["руккола"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Тимьян","aliases":["тимьян"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Укроп","aliases":["укроп"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Шнитт-лук","aliases":["шнитт-лук"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Гриб древесный","aliases":["гриб древесный"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Грибы вешенки","aliases":["грибы вешенки"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Грибы лисички","aliases":["грибы лисички"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Грибы майтаке","aliases":["грибы майтаке"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Грибы портобелло","aliases":["грибы портобелло"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Грибы сморчки","aliases":["грибы сморчки"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Грибы соломенные","aliases":["грибы соломенные","соломенные грибы"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Грибы шиитаке","aliases":["грибы шиитаке"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Грибы эноки","aliases":["грибы эноки"],"measurements":null}
-{"category":"Фрукты и овощи","value":"Шампиньоны","aliases":["шампиньоны"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Белок куриного яйца","aliases":["белок куриного яйца","куриного белок яйца"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Желток куриного яйца","aliases":["желток куриного яйца","куриного желток яйца"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Заменители яиц","aliases":["заменители яиц"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр cливочный","aliases":["сыр cливочный","сыр c ливочный"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Бри","aliases":["сыр бри"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Брюнуст","aliases":["сыр брюнуст","брюнуст сыр"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Гауда","aliases":["сыр гауда","гауда сыр"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Грюйер","aliases":["сыр грюйер","грюйер сыр"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Камамбер","aliases":["сыр камамбер"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Кесо Фреско","aliases":["сыр кесо фреско","кесо сыр фреско"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр козий","aliases":["сыр козий","козий сыр"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Колби","aliases":["сыр колби"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Лимбургер","aliases":["сыр лимбургер","лимбургер сыр"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Аньехо","aliases":["сыр аньехо","аньехо сыр"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Кесо Чихуахуа","aliases":["сыр кесо чихуахуа","кесо сыр чихуахуа"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Котиха","aliases":["сыр котиха","котиха сыр"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Оахака","aliases":["сыр оахака"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Монтерей","aliases":["сыр монтерей"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Моцарелла","aliases":["сыр моцарелла"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Мюнстер","aliases":["сыр мюнстер"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Нёшатель","aliases":["сыр нёшатель","нёшатель сыр"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Пармезан","aliases":["сыр пармезан"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Пекорино Романо","aliases":["сыр пекорино романо","пекорино сыр романо"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр плавленый","aliases":["сыр плавленый"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Пор-Салю","aliases":["сыр пор-салю","пор-салю сыр"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Проволоне","aliases":["сыр проволоне","проволоне сыр"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Рикотта","aliases":["сыр рикотта","рикотта сыр"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Рокфор","aliases":["сыр рокфор"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Тильзитер","aliases":["сыр тильзитер","тильзитер сыр"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр фета","aliases":["сыр фета"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Филадельфия","aliases":["сыр филадельфия"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Фонтина","aliases":["сыр фонтина","фонтина сыр"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Чеддер","aliases":["сыр чеддер"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Чешир","aliases":["сыр чешир"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр швейцарский","aliases":["сыр швейцарский","швейцарский сыр"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыр Эдам","aliases":["сыр эдам"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сыры с плесенью","aliases":["сыры с плесенью"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Йогурт","aliases":["йогурт"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Кефир","aliases":["кефир"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Молоко","aliases":["молоко"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Молоко козье","aliases":["молоко козье"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Молоко коровье","aliases":["молоко коровье","коровье молоко"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Молоко овечье","aliases":["молоко овечье"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Молоко сгущённое","aliases":["молоко сгущённое"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Молоко сухое","aliases":["молоко сухое","сухое молоко"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Молочная сыворотка","aliases":["молочная сыворотка","сыворотка молочная"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Ряженка","aliases":["ряженка"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сметана","aliases":["сметана"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сгущенка","aliases":["сгущенка"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Творог","aliases":["творог"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сырок","aliases":["сырок"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Сырки","aliases":["сырки"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Нарине","aliases":["нарине"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло сливочное","aliases":["масло сливочное","сливочное масло"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Маргарин","aliases":["маргарин"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло абрикосовое","aliases":["масло абрикосовое"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло авокадо","aliases":["масло авокадо"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло арахисовое","aliases":["масло арахисовое","арахисовое масло"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло бабассу","aliases":["масло бабассу"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло виноградных косточек","aliases":["масло виноградных косточек","виноградных масло косточек"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло горчичное","aliases":["масло горчичное"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло грецкого ореха","aliases":["масло грецкого ореха"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло зародышей пшеницы","aliases":["масло зародышей пшеницы"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло какао","aliases":["масло какао"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло канолы","aliases":["масло канолы"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло кокосовое","aliases":["масло кокосовое","кокосовое масло"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло кукурузное","aliases":["масло кукурузное"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло кунжутное","aliases":["масло кунжутное"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло льняное","aliases":["масло льняное","льняное масло"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло маковое","aliases":["масло маковое"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло миндальное","aliases":["масло миндальное"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло овса","aliases":["масло овса"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло оливковое","aliases":["масло оливковое","оливковое масло"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло пальмовое","aliases":["масло пальмовое","пальмовое масло"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло подсолнечное","aliases":["масло подсолнечное"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло рисовых отрубей","aliases":["масло рисовых отрубей","рисовых масло отрубей"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло сафлоровое","aliases":["масло сафлоровое"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло соевое","aliases":["масло соевое"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло фундука","aliases":["масло фундука"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло хлопковое","aliases":["масло хлопковое"],"measurements":null}
-{"category":"Молочные продукты и яйца","value":"Масло ши карите","aliases":["масло ши карите"],"measurements":null}
-{"category":"Мясо и птица","value":"Вырезка свиная","aliases":["вырезка свиная","свиная вырезка"],"measurements":null}
-{"category":"Мясо и птица","value":"Грудинка свиная","aliases":["грудинка свиная"],"measurements":null}
-{"category":"Мясо и птица","value":"Карбонат свиной","aliases":["карбонат свиной"],"measurements":null}
-{"category":"Мясо и птица","value":"Корейка свиная","aliases":["корейка свиная"],"measurements":null}
-{"category":"Мясо и птица","value":"Лопатка свиная","aliases":["лопатка свиная","свиная лопатка"],"measurements":null}
-{"category":"Мясо и птица","value":"Мясо свиное   филе","aliases":["мясо свиное   филе","свиное мясо филе"],"measurements":null}
-{"category":"Мясо и птица","value":"Нутряной свиной жир","aliases":["нутряной свиной жир","нутряной жир свиной"],"measurements":null}
-{"category":"Мясо и птица","value":"Рёбрышки  рёбра  свиные","aliases":["рёбрышки  рёбра  свиные","рёбрышки свиные рёбра"],"measurements":null}
-{"category":"Мясо и птица","value":"Рёбрышки свиные  кантри","aliases":["рёбрышки свиные  кантри","свиные кантри рёбрышки"],"measurements":null}
-{"category":"Мясо и птица","value":"Сало свиное  без прослойки","aliases":["сало свиное  без прослойки","свиное сало без прослойки"],"measurements":null}
-{"category":"Мясо и птица","value":"Сало свиное  с прослойкой","aliases":["сало свиное  с прослойкой","свиное сало с прослойкой"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиная рулька  голяшка","aliases":["свиная рулька  голяшка","свиная голяшка рулька"],"measurements":null}
-{"category":"Мясо и птица","value":"Свинина","aliases":["свинина"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиной окорок","aliases":["свиной окорок","окорок свиной"],"measurements":null}
-{"category":"Мясо и птица","value":"Фарш свиной","aliases":["фарш свиной","свиной фарш"],"measurements":null}
-{"category":"Мясо и птица","value":"Шейка свиная","aliases":["шейка свиная","свиная шейка"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиная печень","aliases":["свиная печень","печень свиная"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиная поджелудочная железа","aliases":["свиная поджелудочная железа","поджелудочная железа свиная"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиная селезёнка","aliases":["свиная селезёнка"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиная щековина","aliases":["свиная щековина"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиное лёгкое","aliases":["свиное лёгкое"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиное сердце","aliases":["свиное сердце","сердце свиное"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиной желудок","aliases":["свиной желудок","желудок свиной"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиной мозг","aliases":["свиной мозг","мозг свиной"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиной хвост","aliases":["свиной хвост","хвост свиной"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиной язык","aliases":["свиной язык","язык свиной"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиные кишки","aliases":["свиные кишки","кишки свиные"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиные ножки","aliases":["свиные ножки","ножки свиные"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиные почки","aliases":["свиные почки","почки свиные"],"measurements":null}
-{"category":"Мясо и птица","value":"Свиные уши","aliases":["свиные уши","уши свиные"],"measurements":null}
-{"category":"Мясо и птица","value":"Говядина мясо","aliases":["говядина мясо"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжий огузок  кострец","aliases":["говяжий огузок  кострец","огузок кострец говяжий"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжий толстый край","aliases":["говяжий толстый край","говяжий край толстый"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжий тонкий край  Стриплойн","aliases":["говяжий тонкий край  стриплойн","говяжий край тонкий стриплойн"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжьи рёбра","aliases":["говяжьи рёбра"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжья вырезка  Тендерлойн","aliases":["говяжья вырезка  тендерлойн","говяжья тендерлойн вырезка"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжья голяшка","aliases":["говяжья голяшка"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжья грудинка","aliases":["говяжья грудинка"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжья лопатка","aliases":["говяжья лопатка"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжья пашина  брюшина  фланк","aliases":["говяжья пашина  брюшина  фланк","говяжья брюшина пашина фланк"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжья шея","aliases":["говяжья шея"],"measurements":null}
-{"category":"Мясо и птица","value":"Телятина","aliases":["телятина"],"measurements":null}
-{"category":"Мясо и птица","value":"Фарш говяжий","aliases":["фарш говяжий"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжий мозг","aliases":["говяжий мозг","мозг говяжий"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжий рубец","aliases":["говяжий рубец","рубец говяжий"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжий язык","aliases":["говяжий язык","язык говяжий"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжье лёгкое","aliases":["говяжье лёгкое"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжье сердце","aliases":["говяжье сердце","сердце говяжье"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжьи почки","aliases":["говяжьи почки"],"measurements":null}
-{"category":"Мясо и птица","value":"Говяжья печень","aliases":["говяжья печень"],"measurements":null}
-{"category":"Мясо и птица","value":"Куриная голень","aliases":["куриная голень"],"measurements":null}
-{"category":"Мясо и птица","value":"Куриная грудка","aliases":["куриная грудка","грудка куриная"],"measurements":null}
-{"category":"Мясо и птица","value":"Куриная спинка","aliases":["куриная спинка","спинка куриная"],"measurements":null}
-{"category":"Мясо и птица","value":"Куриная спинка","aliases":["куриная спинка","спинка куриная"],"measurements":null}
-{"category":"Мясо и птица","value":"Куриные бёдра","aliases":["куриные бёдра","бёдра куриные"],"measurements":null}
-{"category":"Мясо и птица","value":"Куриные крылышки","aliases":["куриные крылышки"],"measurements":null}
-{"category":"Мясо и птица","value":"Куриные ножки  окорочка","aliases":["куриные ножки  окорочка","ножки окорочка куриные"],"measurements":null}
-{"category":"Мясо и птица","value":"Куриный фарш","aliases":["куриный фарш","фарш куриный"],"measurements":null}
-{"category":"Мясо и птица","value":"Курица  куриное мясо","aliases":["курица  куриное мясо","куриное курица мясо"],"measurements":null}
-{"category":"Мясо и птица","value":"Филе куриной грудки  мясо","aliases":["филе куриной грудки  мясо","куриной филе грудки мясо"],"measurements":null}
-{"category":"Мясо и птица","value":"Куриная кожа","aliases":["куриная кожа","кожа куриная"],"measurements":null}
-{"category":"Мясо и птица","value":"Куриная печень","aliases":["куриная печень","печень куриная"],"measurements":null}
-{"category":"Мясо и птица","value":"Куриные жулудки","aliases":["куриные жулудки","жулудки куриные"],"measurements":null}
-{"category":"Мясо и птица","value":"Куриные сердца","aliases":["куриные сердца","сердца куриные"],"measurements":null}
-{"category":"Мясо и птица","value":"Бедро индейки","aliases":["бедро индейки"],"measurements":null}
-{"category":"Мясо и птица","value":"Голень индейки","aliases":["голень индейки"],"measurements":null}
-{"category":"Мясо и птица","value":"Грудка индейки","aliases":["грудка индейки"],"measurements":null}
-{"category":"Мясо и птица","value":"Желудки индейки","aliases":["желудки индейки"],"measurements":null}
-{"category":"Мясо и птица","value":"Индейка мясо","aliases":["индейка мясо"],"measurements":null}
-{"category":"Мясо и птица","value":"Кожа индейки","aliases":["кожа индейки"],"measurements":null}
-{"category":"Мясо и птица","value":"Мясо индейки","aliases":["мясо индейки"],"measurements":null}
-{"category":"Мясо и птица","value":"Печень индейки","aliases":["печень индейки"],"measurements":null}
-{"category":"Мясо и птица","value":"Сердце индейки","aliases":["сердце индейки"],"measurements":null}
-{"category":"Мясо и птица","value":"Шея индейки","aliases":["шея индейки"],"measurements":null}
-{"category":"Мясо и птица","value":"Филе индейки","aliases":["филе индейки"],"measurements":null}
-{"category":"Мясо и птица","value":"Индюшатина","aliases":["индюшатина"],"measurements":null}
-{"category":"Колбаса и сосиски","value":"Ветчина","aliases":["ветчина"],"measurements":null}
-{"category":"Колбаса и сосиски","value":"Колбаса","aliases":["колбаса"],"measurements":null}
-{"category":"Колбаса и сосиски","value":"Колбаса докторская","aliases":["колбаса докторская"],"measurements":null}
-{"category":"Колбаса и сосиски","value":"Колбаса копчёная","aliases":["колбаса копчёная","копчёная колбаса"],"measurements":null}
-{"category":"Колбаса и сосиски","value":"Колбаса кровяная","aliases":["колбаса кровяная","кровяная колбаса"],"measurements":null}
-{"category":"Колбаса и сосиски","value":"Колбаса Пепперони","aliases":["колбаса пепперони","пепперони колбаса"],"measurements":null}
-{"category":"Колбаса и сосиски","value":"Паштет","aliases":["паштет"],"measurements":null}
-{"category":"Колбаса и сосиски","value":"Салями","aliases":["салями"],"measurements":null}
-{"category":"Колбаса и сосиски","value":"Сосиски","aliases":["сосиски"],"measurements":null}
-{"category":"Колбаса и сосиски","value":"Сосиски молочные","aliases":["сосиски молочные"],"measurements":null}
-{"category":"Колбаса и сосиски","value":"Колбаса Вареная","aliases":["колбаса вареная"],"measurements":null}
-{"category":"Колбаса и сосиски","value":"Сервилат","aliases":["сервилат"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Блины","aliases":["блины"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Булочки","aliases":["булочки"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Лаваш","aliases":["лаваш"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Лепёшки","aliases":["лепёшки"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Лепёшка","aliases":["лепёшка"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Пита","aliases":["пита"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Пончики","aliases":["пончики"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Сухари из хлеба","aliases":["сухари из хлеба"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Сухари панировочные","aliases":["сухари панировочные"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Тортилья","aliases":["тортилья"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Фокачча","aliases":["фокачча"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Хлеб белый пшеничный","aliases":["хлеб белый пшеничный","белый хлеб пшеничный"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Хлеб из овсяных отрубей","aliases":["хлеб из овсяных отрубей","хлеб из отрубей овсяных"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Хлеб из пророщенной пшеницы","aliases":["хлеб из пророщенной пшеницы","хлеб из пшеницы пророщенной"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Хлеб из пшеничных отрубей","aliases":["хлеб из пшеничных отрубей"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Хлеб из рисовых отрубей","aliases":["хлеб из рисовых отрубей","хлеб из отрубей рисовых"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Хлеб мультизерновой","aliases":["хлеб мультизерновой"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Хлеб овсяный","aliases":["хлеб овсяный"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Хлеб пшеничный цельнозерновой","aliases":["хлеб пшеничный цельнозерновой","пшеничный хлеб цельнозерновой"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Хлеб ржаной","aliases":["хлеб ржаной"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Хлебцы мультизерновые","aliases":["хлебцы мультизерновые","мультизерновые хлебцы"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Хлебцы ржаные","aliases":["хлебцы ржаные","ржаные хлебцы"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Хлеб белый","aliases":["хлеб белый","белый хлеб"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Хлеб черный","aliases":["хлеб черный","черный хлеб"],"measurements":null}
-{"category":"Хлеб и выпечка","value":"Хлеб серый","aliases":["хлеб серый","серый хлеб"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Булгур","aliases":["булгур"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Гречка","aliases":["гречка"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Гречка зелёная","aliases":["гречка зелёная"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Зёрна кукурузы","aliases":["зёрна кукурузы"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Киноа","aliases":["киноа"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Крупа амарантовая","aliases":["крупа амарантовая"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Крупа кукурузная","aliases":["крупа кукурузная"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Крупа пшеничная","aliases":["крупа пшеничная","пшеничная крупа"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Крупа теф","aliases":["крупа теф"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Крупа ячневая","aliases":["крупа ячневая"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Кускус","aliases":["кускус"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Манка","aliases":["манка"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Мюсли","aliases":["мюсли"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Мюсли","aliases":["мюсли"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Овсяная крупа","aliases":["овсяная крупа","крупа овсяная"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Овсяные хлопья","aliases":["овсяные хлопья"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Перловка","aliases":["перловка"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Полба","aliases":["полба"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Пшено пшённая","aliases":["пшено пшённая"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Ржаное зерно","aliases":["ржаное зерно","зерно ржаное"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Сорго","aliases":["сорго"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Тритикалене","aliases":["тритикалене"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Рис","aliases":["рис"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Мука","aliases":["мука"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Греча","aliases":["греча"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Овсянка","aliases":["овсянка"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Сухофрукты","aliases":["сухофрукты"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Аспартам","aliases":["аспартам"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Сахар","aliases":["сахар"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Сахар коричневый","aliases":["сахар коричневый","коричневый сахар"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Сахарин","aliases":["сахарин"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Сироп агавы","aliases":["сироп агавы"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Стевия","aliases":["стевия"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Сукралоза","aliases":["сукралоза"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Фруктоза","aliases":["фруктоза"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Сахарозаменитель","aliases":["сахарозаменитель"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Сахарный песок","aliases":["сахарный песок","песок сахарный"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Лапша","aliases":["лапша"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Макароны","aliases":["макароны"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Лапша гречневая","aliases":["лапша гречневая","гречневая лапша"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Паста","aliases":["паста"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Лапша домашняя","aliases":["лапша домашняя"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Лапша из цельнозерновой пшеницы","aliases":["лапша из цельнозерновой пшеницы","лапша из пшеницы цельнозерновой"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Лапша кукурузная","aliases":["лапша кукурузная"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Лапша пшеничная  удон","aliases":["лапша пшеничная  удон","лапша удон пшеничная"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Лапша рисовая","aliases":["лапша рисовая","рисовая лапша"],"measurements":null}
-{"category":"Бакалея и крупы","value":"Лапша яичная","aliases":["лапша яичная"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Анчоусы","aliases":["анчоусы"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Горбуша","aliases":["горбуша"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Горбыль","aliases":["горбыль"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Групер","aliases":["групер"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Желтохвост","aliases":["желтохвост"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Зубатка","aliases":["зубатка"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Камбала","aliases":["камбала"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Карп","aliases":["карп"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Кета","aliases":["кета"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Кефаль","aliases":["кефаль"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Кижуч","aliases":["кижуч"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Корюшка","aliases":["корюшка"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Луциан","aliases":["луциан"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Масляная рыба","aliases":["масляная рыба","рыба масляная"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Махи-махи","aliases":["махи-махи"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Менёк","aliases":["менёк"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Мерланг","aliases":["мерланг"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Минтай","aliases":["минтай"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Молочная рыба","aliases":["молочная рыба","рыба молочная"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Мольва","aliases":["мольва"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Морской чёрт","aliases":["морской чёрт"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Мясо акулы","aliases":["мясо акулы"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Налим","aliases":["налим"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Нерка","aliases":["нерка"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Окунь речной","aliases":["окунь речной"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Омуль","aliases":["омуль"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Осётр","aliases":["осётр"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Палтус","aliases":["палтус"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Рыба-меч","aliases":["рыба-меч"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Сельдь","aliases":["сельдь"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Сёмга","aliases":["сёмга"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Сибас","aliases":["сибас"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Скумбрия","aliases":["скумбрия"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Сом","aliases":["сом"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Судак","aliases":["судак"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Сурими","aliases":["сурими"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Терпуг","aliases":["терпуг"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Тилапия","aliases":["тилапия"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Треска","aliases":["треска"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Угорь","aliases":["угорь"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Форель","aliases":["форель"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Чавыча","aliases":["чавыча"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Щука","aliases":["щука"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Окунь","aliases":["окунь"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Карась","aliases":["карась"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Кальмар","aliases":["кальмар"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Рак","aliases":["рак"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Раки","aliases":["раки"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Каракатица","aliases":["каракатица"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Мидииотварные","aliases":["мидииотварные"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Мидии","aliases":["мидии"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Спирулина","aliases":["спирулина"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Моллюски","aliases":["моллюски"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Водоросли","aliases":["водоросли"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Морские ушки","aliases":["морские ушки","ушки морские"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Нори","aliases":["нори"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Морской гребешок","aliases":["морской гребешок","гребешок морской"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Ирландский мох","aliases":["ирландский мох","мох ирландский"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Осьминог","aliases":["осьминог"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Улитки","aliases":["улитки"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Устрицызапечённые","aliases":["устрицызапечённые"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Устрицы","aliases":["устрицы"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Морская капуста","aliases":["морская капуста","капуста морская"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Камчатский краб","aliases":["камчатский краб","краб камчатский"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Краб","aliases":["краб"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Омар","aliases":["омар"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Крабовые палочки","aliases":["крабовые палочки","палочки крабовые"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Креветки","aliases":["креветки"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Лангуст","aliases":["лангуст"],"measurements":null}
-{"category":"Рыба и морепродукты","value":"Лобстер","aliases":["лобстер"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Вино","aliases":["вино"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Вино белое","aliases":["вино белое","белое вино"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Вино полусухое","aliases":["вино полусухое"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Вино сухое","aliases":["вино сухое","сухое вино"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Вино красное","aliases":["вино красное","красное вино"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Вино розовое","aliases":["вино розовое","розовое вино"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Виски","aliases":["виски"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Водка","aliases":["водка"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Джин","aliases":["джин"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Пиво","aliases":["пиво"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Ром","aliases":["ром"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Сакэ","aliases":["сакэ"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Вино полусладкое","aliases":["вино полусладкое"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Пиво тёмное","aliases":["пиво тёмное","тёмное пиво"],"measurements":null}
-{"category":"Алкогольные напитки","value":"Пиво светлое","aliases":["пиво светлое","светлое пиво"],"measurements":null}
-{"category":"Безалкогольные напитки","value":"Кола","aliases":["кола"],"measurements":null}
-{"category":"Безалкогольные напитки","value":"Холодный чай","aliases":["холодный чай","чай холодный"],"measurements":null}
-{"category":"Безалкогольные напитки","value":"Кофе","aliases":["кофе"],"measurements":null}
-{"category":"Безалкогольные напитки","value":"Энергетический напиток","aliases":["энергетический напиток","напиток энергетический"],"measurements":null}
-{"category":"Безалкогольные напитки","value":"Спрайт","aliases":["спрайт"],"measurements":null}
-{"category":"Безалкогольные напитки","value":"Фанта","aliases":["фанта"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Жевательная резинка","aliases":["жевательная резинка","резинка жевательная"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Зефир","aliases":["зефир"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Ирис","aliases":["ирис"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Карамель","aliases":["карамель"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Кекс шоколадныйс шоколадной глазурью","aliases":["кекс шоколадныйс шоколадной глазурью","кекс шоколадныйс глазурью шоколадной"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Конфеты","aliases":["конфеты"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Коржи бисквитные для торта","aliases":["коржи бисквитные для торта","бисквитные коржи для торта"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Коржи шоколадные для торта","aliases":["коржи шоколадные для торта","шоколадные коржи для торта"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Крекер","aliases":["крекер"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Крендельки","aliases":["крендельки"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Мармелад","aliases":["мармелад"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Мёд","aliases":["мёд"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Меласса","aliases":["меласса"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Мороженое","aliases":["мороженое"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Мороженое шоколадное","aliases":["мороженое шоколадное","шоколадное мороженое"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Печенье овсяное","aliases":["печенье овсяное"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Помадка","aliases":["помадка"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Халва","aliases":["халва"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Чизкейк","aliases":["чизкейк"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Щербет","aliases":["щербет"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Арахисовая паста","aliases":["арахисовая паста","паста арахисовая"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Шоколадная паста","aliases":["шоколадная паста","паста шоколадная"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Жвачка","aliases":["жвачка"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Корж","aliases":["корж"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Коржи","aliases":["коржи"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Маршмэлоу","aliases":["маршмэлоу"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Шоколад белый","aliases":["шоколад белый","белый шоколад"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Шоколад молочный","aliases":["шоколад молочный","молочный шоколад"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Шоколад тёмный","aliases":["шоколад тёмный","тёмный шоколад"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Шоколадный батончик","aliases":["шоколадный батончик","батончик шоколадный"],"measurements":null}
-{"category":"Сладости и кондитерские изделия","value":"Шоколадка","aliases":["шоколадка"],"measurements":null}
-{"category":"Косервы","value":"Горошек консервированный","aliases":["горошек консервированный"],"measurements":null}
-{"category":"Косервы","value":"Кукуруза консервированная","aliases":["кукуруза консервированная"],"measurements":null}
-{"category":"Косервы","value":"Сардины","aliases":["сардины"],"measurements":null}
-{"category":"Косервы","value":"Тунец","aliases":["тунец"],"measurements":null}
-{"category":"Косервы","value":"Фасоль консервированная","aliases":["фасоль консервированная"],"measurements":null}
-{"category":"Косервы","value":"Супы консервированные","aliases":["супы консервированные"],"measurements":null}
-{"category":"Косервы","value":"Огурцы консервированные","aliases":["огурцы консервированные"],"measurements":null}
-{"category":"Косервы","value":"Ананасы консервированные","aliases":["ананасы консервированные"],"measurements":null}
-{"category":"Косервы","value":"Оливки","aliases":["оливки"],"measurements":null}
-{"category":"Косервы","value":"Шпроты","aliases":["шпроты"],"measurements":null}
-{"category":"Косервы","value":"Томаты консервированные","aliases":["томаты консервированные"],"measurements":null}
-{"category":"Косервы","value":"Паштеты","aliases":["паштеты"],"measurements":null}
-{"category":"Косервы","value":"Компоты","aliases":["компоты"],"measurements":null}
-{"category":"Косервы","value":"Шампиньоны","aliases":["шампиньоны"],"measurements":null}
-{"category":"Косервы","value":"Томатная паста","aliases":["томатная паста","паста томатная"],"measurements":null}
-{"category":"Косервы","value":"Анчоусы","aliases":["анчоусы"],"measurements":null}
-{"category":"Косервы","value":"Гуляш консервированный","aliases":["гуляш консервированный"],"measurements":null}
-{"category":"Соусы и специи","value":"Базилик","aliases":["базилик"],"measurements":null}
-{"category":"Соусы и специи","value":"Ваниль экстракт","aliases":["ваниль экстракт"],"measurements":null}
-{"category":"Соусы и специи","value":"Гвоздика","aliases":["гвоздика"],"measurements":null}
-{"category":"Соусы и специи","value":"Кервель ажурный","aliases":["кервель ажурный"],"measurements":null}
-{"category":"Соусы и специи","value":"Кориандр","aliases":["кориандр"],"measurements":null}
-{"category":"Соусы и специи","value":"Корица","aliases":["корица"],"measurements":null}
-{"category":"Соусы и специи","value":"Куркума","aliases":["куркума"],"measurements":null}
-{"category":"Соусы и специи","value":"Лавровый лист","aliases":["лавровый лист","лист лавровый"],"measurements":null}
-{"category":"Соусы и специи","value":"Луковый","aliases":["луковый"],"measurements":null}
-{"category":"Соусы и специи","value":"Майоран","aliases":["майоран"],"measurements":null}
-{"category":"Соусы и специи","value":"Мускатный орех","aliases":["мускатный орех","орех мускатный"],"measurements":null}
-{"category":"Соусы и специи","value":"Мята","aliases":["мята"],"measurements":null}
-{"category":"Соусы и специи","value":"Ореганодушица","aliases":["ореганодушица"],"measurements":null}
-{"category":"Соусы и специи","value":"Паприка","aliases":["паприка"],"measurements":null}
-{"category":"Соусы и специи","value":"Перец белый","aliases":["перец белый","белый перец"],"measurements":null}
-{"category":"Соусы и специи","value":"Перец душистый","aliases":["перец душистый","душистый перец"],"measurements":null}
-{"category":"Соусы и специи","value":"Перец чёрный","aliases":["перец чёрный"],"measurements":null}
-{"category":"Соусы и специи","value":"Перец чили","aliases":["перец чили"],"measurements":null}
-{"category":"Соусы и специи","value":"Перец чили","aliases":["перец чили"],"measurements":null}
-{"category":"Соусы и специи","value":"Петрушка","aliases":["петрушка"],"measurements":null}
-{"category":"Соусы и специи","value":"Розмарин","aliases":["розмарин"],"measurements":null}
-{"category":"Соусы и специи","value":"Соль","aliases":["соль"],"measurements":null}
-{"category":"Соусы и специи","value":"Тимьян","aliases":["тимьян"],"measurements":null}
-{"category":"Соусы и специи","value":"Укроп","aliases":["укроп"],"measurements":null}
-{"category":"Соусы и специи","value":"Чабер","aliases":["чабер"],"measurements":null}
-{"category":"Соусы и специи","value":"Чеснок","aliases":["чеснок"],"measurements":null}
-{"category":"Соусы и специи","value":"Шалфей","aliases":["шалфей"],"measurements":null}
-{"category":"Соусы и специи","value":"Шафран","aliases":["шафран"],"measurements":null}
-{"category":"Соусы и специи","value":"Экстракт имбиря","aliases":["экстракт имбиря"],"measurements":null}
-{"category":"Соусы и специи","value":"Эстрагон","aliases":["эстрагон"],"measurements":null}
-{"category":"Соусы и специи","value":"Зира","aliases":["зира"],"measurements":null}
-{"category":"Соусы и специи","value":"Семена кумина","aliases":["семена кумина"],"measurements":null}
-{"category":"Соусы и специи","value":"Кардамон","aliases":["кардамон"],"measurements":null}
-{"category":"Соусы и специи","value":"Кунжутне","aliases":["кунжутне"],"measurements":null}
-{"category":"Соусы и специи","value":"Кунжут","aliases":["кунжут"],"measurements":null}
-{"category":"Соусы и специи","value":"Пажитник","aliases":["пажитник"],"measurements":null}
-{"category":"Соусы и специи","value":"Семена аниса","aliases":["семена аниса"],"measurements":null}
-{"category":"Соусы и специи","value":"Семена горчицы","aliases":["семена горчицы"],"measurements":null}
-{"category":"Соусы и специи","value":"Семена гулявника","aliases":["семена гулявника"],"measurements":null}
-{"category":"Соусы и специи","value":"Семена кориандра","aliases":["семена кориандра"],"measurements":null}
-{"category":"Соусы и специи","value":"Семена лотоса","aliases":["семена лотоса"],"measurements":null}
-{"category":"Соусы и специи","value":"Семена мака","aliases":["семена мака"],"measurements":null}
-{"category":"Соусы и специи","value":"Семена сельдерея","aliases":["семена сельдерея"],"measurements":null}
-{"category":"Соусы и специи","value":"Семена тыквы","aliases":["семена тыквы"],"measurements":null}
-{"category":"Соусы и специи","value":"Семена укропа","aliases":["семена укропа"],"measurements":null}
-{"category":"Соусы и специи","value":"Семена фенхеля","aliases":["семена фенхеля"],"measurements":null}
-{"category":"Соусы и специи","value":"Семена чиа","aliases":["семена чиа"],"measurements":null}
-{"category":"Соусы и специи","value":"Семечки подсолнуха","aliases":["семечки подсолнуха"],"measurements":null}
-{"category":"Соусы и специи","value":"Семя конопляное","aliases":["семя конопляное"],"measurements":null}
-{"category":"Соусы и специи","value":"Семя льняное","aliases":["семя льняное","льняное семя"],"measurements":null}
-{"category":"Соусы и специи","value":"Тмин семена","aliases":["тмин семена","семена тмин"],"measurements":null}
-{"category":"Соусы и специи","value":"Уксус","aliases":["уксус"],"measurements":null}
-{"category":"Соусы и специи","value":"Уксус бальзамический","aliases":["уксус бальзамический"],"measurements":null}
-{"category":"Соусы и специи","value":"Уксус винный","aliases":["уксус винный","винный уксус"],"measurements":null}
-{"category":"Соусы и специи","value":"Уксус яблочный","aliases":["уксус яблочный","яблочный уксус"],"measurements":null}
-{"category":"Соусы и специи","value":"Рисовый уксус","aliases":["рисовый уксус","уксус рисовый"],"measurements":null}
-{"category":"Соусы и специи","value":"Горчица","aliases":["горчица"],"measurements":null}
-{"category":"Соусы и специи","value":"Кетчуп","aliases":["кетчуп"],"measurements":null}
-{"category":"Соусы и специи","value":"Майонез","aliases":["майонез"],"measurements":null}
-{"category":"Соусы и специи","value":"Хрен","aliases":["хрен"],"measurements":null}
-{"category":"Соусы и специи","value":"Барбекью соус","aliases":["барбекью соус","соус барбекью"],"measurements":null}
-{"category":"Соусы и специи","value":"Томатная паста","aliases":["томатная паста","паста томатная"],"measurements":null}
-{"category":"Соусы и специи","value":"Сырный соус","aliases":["сырный соус","соус сырный"],"measurements":null}
-{"category":"Соусы и специи","value":"Кисло-сладкий соус","aliases":["кисло-сладкий соус","соус кисло-сладкий"],"measurements":null}
-{"category":"Соусы и специи","value":"Грибной соус","aliases":["грибной соус","соус грибной"],"measurements":null}
-{"category":"Соусы и специи","value":"Чесночный соус","aliases":["чесночный соус","соус чесночный"],"measurements":null}
-{"category":"Чай, кофе и какао","value":"Какао","aliases":["какао"],"measurements":null}
-{"category":"Чай, кофе и какао","value":"Кола","aliases":["кола"],"measurements":null}
-{"category":"Чай, кофе и какао","value":"Кофе","aliases":["кофе"],"measurements":null}
-{"category":"Чай, кофе и какао","value":"Цикорий","aliases":["цикорий"],"measurements":null}
-{"category":"Снеки и орехи","value":"Бразильский орех","aliases":["бразильский орех","орех бразильский"],"measurements":null}
-{"category":"Снеки и орехи","value":"Буковый орешек","aliases":["буковый орешек","орешек буковый"],"measurements":null}
-{"category":"Снеки и орехи","value":"Грецкий орех","aliases":["грецкий орех","орех грецкий"],"measurements":null}
-{"category":"Снеки и орехи","value":"Каштан","aliases":["каштан"],"measurements":null}
-{"category":"Снеки и орехи","value":"Кедровый орех","aliases":["кедровый орех","орех кедровый"],"measurements":null}
-{"category":"Снеки и орехи","value":"Кешью","aliases":["кешью"],"measurements":null}
-{"category":"Снеки и орехи","value":"Миндаль","aliases":["миндаль"],"measurements":null}
-{"category":"Снеки и орехи","value":"Орех макадамия","aliases":["орех макадамия"],"measurements":null}
-{"category":"Снеки и орехи","value":"Орех пили","aliases":["орех пили"],"measurements":null}
-{"category":"Снеки и орехи","value":"Орех серый","aliases":["орех серый"],"measurements":null}
-{"category":"Снеки и орехи","value":"Пекан","aliases":["пекан"],"measurements":null}
-{"category":"Снеки и орехи","value":"Фисташки","aliases":["фисташки"],"measurements":null}
-{"category":"Снеки и орехи","value":"Фундук","aliases":["фундук"],"measurements":null}
-{"category":"Снеки и орехи","value":"Чёрный орех","aliases":["чёрный орех","орех чёрный"],"measurements":null}
-{"category":"Снеки и орехи","value":"Чипсы картофельные","aliases":["чипсы картофельные","картофельные чипсы"],"measurements":null}
-{"category":"Снеки и орехи","value":"Чипсы кукурузные","aliases":["чипсы кукурузные","кукурузные чипсы"],"measurements":null}
-{"category":"Снеки и орехи","value":"Начос","aliases":["начос"],"measurements":null}
-{"category":"Снеки и орехи","value":"Луковые кольца","aliases":["луковые кольца","кольца луковые"],"measurements":null}
-{"category":"Снеки и орехи","value":"Попкорн","aliases":["попкорн"],"measurements":null}
-{"category":"Снеки и орехи","value":"Попкорн карамельный","aliases":["попкорн карамельный"],"measurements":null}
-{"category":"Снеки и орехи","value":"Фруктовые чипсы","aliases":["фруктовые чипсы","чипсы фруктовые"],"measurements":null}
-{"category":"Готовые блюда","value":"Омлет яичный","aliases":["омлет яичный"],"measurements":null}
-{"category":"Готовые блюда","value":"Гамбургер","aliases":["гамбургер"],"measurements":null}
-{"category":"Готовые блюда","value":"Картофель фри","aliases":["картофель фри"],"measurements":null}
-{"category":"Готовые блюда","value":"Хот-дог","aliases":["хот-дог"],"measurements":null}
-{"category":"Готовые блюда","value":"Чизбургер","aliases":["чизбургер"],"measurements":null}
-{"category":"Здоровое питание и диетические продукты","value":"Органические овсяные хлопья","aliases":["органические овсяные хлопья","органические хлопья овсяные"],"measurements":null}
-{"category":"Здоровое питание и диетические продукты","value":"Льняные семена","aliases":["льняные семена","семена льняные"],"measurements":null}
-{"category":"Здоровое питание и диетические продукты","value":"Миндальное масло","aliases":["миндальное масло","масло миндальное"],"measurements":null}
-{"category":"Здоровое питание и диетические продукты","value":"Кокосовая вода","aliases":["кокосовая вода"],"measurements":null}
-{"category":"Здоровое питание и диетические продукты","value":"Квиноа","aliases":["квиноа"],"measurements":null}
-{"category":"Здоровое питание и диетические продукты","value":"Спирулина в порошке","aliases":["спирулина в порошке"],"measurements":null}
-{"category":"Здоровое питание и диетические продукты","value":"Чиа-семена","aliases":["чиа-семена"],"measurements":null}
-{"category":"Здоровое питание и диетические продукты","value":"Куркума корень","aliases":["куркума корень"],"measurements":null}
-{"category":"Здоровое питание и диетические продукты","value":"Ягоды годжи","aliases":["ягоды годжи"],"measurements":null}
-{"category":"Здоровое питание и диетические продукты","value":"Мед натуральный","aliases":["мед натуральный","натуральный мед"],"measurements":null}
-{"category":"Здоровое питание и диетические продукты","value":"Льняное масло","aliases":["льняное масло","масло льняное"],"measurements":null}
-{"category":"Здоровое питание и диетические продукты","value":"Кедровые орехи","aliases":["кедровые орехи"],"measurements":null}
-{"category":"Здоровое питание и диетические продукты","value":"Ржаные хлебцы","aliases":["ржаные хлебцы","хлебцы ржаные"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Моющее средство для посуды","aliases":["моющее средство для посуды","средство моющее для посуды"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Средство для уборки полов","aliases":["средство для уборки полов"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Стиральный порошок","aliases":["стиральный порошок","порошок стиральный"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Жидкое мыло","aliases":["жидкое мыло","мыло жидкое"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Очиститель для ванной комнаты","aliases":["очиститель для ванной комнаты","очиститель для комнаты ванной"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Универсальный чистящий спрей","aliases":["универсальный чистящий спрей","универсальный спрей чистящий"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Губки для уборки","aliases":["губки для уборки"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Пленка для упаковки","aliases":["пленка для упаковки"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Туалетная бумага","aliases":["туалетная бумага","бумага туалетная"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Жидкость для мытья окон","aliases":["жидкость для мытья окон"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Освежитель воздуха","aliases":["освежитель воздуха","воздуха освежитель"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Ковровая пена","aliases":["ковровая пена"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Средство для удаления пятен","aliases":["средство для удаления пятен"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Средство для удаления накипи","aliases":["средство для удаления накипи"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Влажные салфетки для уборки","aliases":["влажные салфетки для уборки","салфетки влажные для уборки"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Чистящие порошки для унитаза","aliases":["чистящие порошки для унитаза","порошки чистящие для унитаза"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Освежитель для стирки","aliases":["освежитель для стирки"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Щетки для уборки","aliases":["щетки для уборки"],"measurements":null}
-{"category":"Товары для дома и бытовая химия","value":"Мешки для мусора","aliases":["мешки для мусора"],"measurements":null}
-{"category":"Красота и гигиена","value":"Шампунь для волос","aliases":["шампунь для волос"],"measurements":null}
-{"category":"Красота и гигиена","value":"Кондиционер для волос","aliases":["кондиционер для волос"],"measurements":null}
-{"category":"Красота и гигиена","value":"Гель для душа","aliases":["гель для душа"],"measurements":null}
-{"category":"Красота и гигиена","value":"Зубная паста","aliases":["зубная паста","паста зубная"],"measurements":null}
-{"category":"Красота и гигиена","value":"Зубная щетка","aliases":["зубная щетка","щетка зубная"],"measurements":null}
-{"category":"Красота и гигиена","value":"Дезодорант","aliases":["дезодорант"],"measurements":null}
-{"category":"Красота и гигиена","value":"Крем для рук","aliases":["крем для рук"],"measurements":null}
-{"category":"Красота и гигиена","value":"Крем для лица","aliases":["крем для лица"],"measurements":null}
-{"category":"Красота и гигиена","value":"Гигиенические прокладки","aliases":["гигиенические прокладки","прокладки гигиенические"],"measurements":null}
-{"category":"Красота и гигиена","value":"Тампоны","aliases":["тампоны"],"measurements":null}
-{"category":"Красота и гигиена","value":"Бритвенный станок","aliases":["бритвенный станок","станок бритвенный"],"measurements":null}
-{"category":"Красота и гигиена","value":"Пена для бритья","aliases":["пена для бритья"],"measurements":null}
-{"category":"Красота и гигиена","value":"Ватные диски","aliases":["ватные диски","диски ватные"],"measurements":null}
-{"category":"Красота и гигиена","value":"Лосьон после бритья","aliases":["лосьон после бритья"],"measurements":null}
-{"category":"Красота и гигиена","value":"Мыло для рук","aliases":["мыло для рук"],"measurements":null}
-{"category":"Красота и гигиена","value":"Средство для снятия макияжа","aliases":["средство для снятия макияжа"],"measurements":null}
-{"category":"Красота и гигиена","value":"Косметические салфетки","aliases":["косметические салфетки","салфетки косметические"],"measurements":null}
-{"category":"Красота и гигиена","value":"Солнцезащитный крем","aliases":["солнцезащитный крем","крем солнцезащитный"],"measurements":null}
-{"category":"Красота и гигиена","value":"Гигиеническая помада","aliases":["гигиеническая помада","помада гигиеническая"],"measurements":null}
-{"category":"Красота и гигиена","value":"Туалетная бумага","aliases":["туалетная бумага","бумага туалетная"],"measurements":null}
-{"category":"Товары для детей","value":"Подгузники","aliases":["подгузники"],"measurements":null}
-{"category":"Товары для детей","value":"Детское питание","aliases":["детское питание","питание детское"],"measurements":null}
-{"category":"Товары для детей","value":"Игрушки","aliases":["игрушки"],"measurements":null}
-{"category":"Товары для детей","value":"Детская одежда","aliases":["детская одежда","одежда детская"],"measurements":null}
-{"category":"Товары для детей","value":"Детская обувь","aliases":["детская обувь","обувь детская"],"measurements":null}
-{"category":"Товары для детей","value":"Коляски","aliases":["коляски"],"measurements":null}
-{"category":"Товары для детей","value":"Автокресла","aliases":["автокресла"],"measurements":null}
-{"category":"Товары для детей","value":"Детская косметика","aliases":["детская косметика","косметика детская"],"measurements":null}
-{"category":"Товары для детей","value":"Игровые коврики","aliases":["игровые коврики","коврики игровые"],"measurements":null}
-{"category":"Товары для детей","value":"Детские книги","aliases":["детские книги","книги детские"],"measurements":null}
-{"category":"Товары для детей","value":"Детская мебель","aliases":["детская мебель","мебель детская"],"measurements":null}
-{"category":"Товары для детей","value":"Детская посуда","aliases":["детская посуда","посуда детская"],"measurements":null}
-{"category":"Товары для детей","value":"Пеленки и полотенца","aliases":["пеленки и полотенца"],"measurements":null}
-{"category":"Товары для детей","value":"Детские шампуни и гели для купания","aliases":["детские шампуни и гели для купания","шампуни детские и гели для купания"],"measurements":null}
-{"category":"Товары для детей","value":"Детские кремы и лосьоны","aliases":["детские кремы и лосьоны","кремы детские и лосьоны"],"measurements":null}
-{"category":"Товары для детей","value":"Прорезыватели","aliases":["прорезыватели"],"measurements":null}
-{"category":"Товары для животных","value":"Корм сухой для собак","aliases":["корм сухой для собак","сухой корм для собак"],"measurements":null}
-{"category":"Товары для животных","value":"Корм влажный для собак","aliases":["корм влажный для собак","влажный корм для собак"],"measurements":null}
-{"category":"Товары для животных","value":"Корм сухой для кошек","aliases":["корм сухой для кошек","сухой корм для кошек"],"measurements":null}
-{"category":"Товары для животных","value":"Корм влажный для кошек","aliases":["корм влажный для кошек","влажный корм для кошек"],"measurements":null}
-{"category":"Товары для животных","value":"Лакомства для животных","aliases":["лакомства для животных"],"measurements":null}
-{"category":"Товары для животных","value":"Игрушки для животных","aliases":["игрушки для животных"],"measurements":null}
-{"category":"Товары для животных","value":"Миски для корма","aliases":["миски для корма"],"measurements":null}
-{"category":"Товары для животных","value":"Наполнитель для кошачьего лотка","aliases":["наполнитель для кошачьего лотка","наполнитель для лотка кошачьего"],"measurements":null}
-{"category":"Товары для животных","value":"Поводки для собак","aliases":["поводки для собак"],"measurements":null}
-{"category":"Товары для животных","value":"Ошейники для собак","aliases":["ошейники для собак"],"measurements":null}
-{"category":"Товары для животных","value":"Когтеточки для кошек","aliases":["когтеточки для кошек"],"measurements":null}
-{"category":"Товары для животных","value":"Витамины для животных","aliases":["витамины для животных"],"measurements":null}
-{"category":"Товары для животных","value":"Щетки для ухода за шерстью","aliases":["щетки для ухода за шерстью"],"measurements":null}
-{"category":"Товары для животных","value":"Шампуни для животных","aliases":["шампуни для животных"],"measurements":null}
-{"category":"Товары для животных","value":"Аквариумы для рыб","aliases":["аквариумы для рыб"],"measurements":null}
-{"category":"Товары для животных","value":"Клетки для грызунов","aliases":["клетки для грызунов"],"measurements":null}
-{"category":"Товары для животных","value":"Клетки для птиц","aliases":["клетки для птиц"],"measurements":null}
-{"category":"Товары для животных","value":"Песок для грызунов","aliases":["песок для грызунов"],"measurements":null}
-{"category":"Товары для животных","value":"Средства от блох и клещей","aliases":["средства от блох и клещей"],"measurements":null}
-{"category":"Товары для животных","value":"Одежда для собак","aliases":["одежда для собак"],"measurements":null}
+{"category":"Фрукты и овощи","value":"Батат","aliases":["батат"]}
+{"category":"Фрукты и овощи","value":"Патиссон","aliases":["патиссон"]}
+{"category":"Фрукты и овощи","value":"Картофель","aliases":["картофель"]}
+{"category":"Фрукты и овощи","value":"Свекла","aliases":["свекла"]}
+{"category":"Фрукты и овощи","value":"Таро","aliases":["таро"]}
+{"category":"Фрукты и овощи","value":"Лук репчатый","aliases":["лук репчатый"]}
+{"category":"Фрукты и овощи","value":"Лук","aliases":["лук"]}
+{"category":"Фрукты и овощи","value":"Баклажан","aliases":["баклажан"]}
+{"category":"Фрукты и овощи","value":"Баклажаны","aliases":["баклажаны"]}
+{"category":"Фрукты и овощи","value":"Перец болгарский","aliases":["перец болгарский"]}
+{"category":"Фрукты и овощи","value":"Фасоль стручковая","aliases":["фасоль стручковая"]}
+{"category":"Фрукты и овощи","value":"Тыква","aliases":["тыква"]}
+{"category":"Фрукты и овощи","value":"Брюква","aliases":["брюква"]}
+{"category":"Фрукты и овощи","value":"Васаби","aliases":["васаби"]}
+{"category":"Фрукты и овощи","value":"Дайкон","aliases":["дайкон"]}
+{"category":"Фрукты и овощи","value":"Имбирь","aliases":["имбирь"]}
+{"category":"Фрукты и овощи","value":"Ямс","aliases":["ямс"]}
+{"category":"Фрукты и овощи","value":"Корень имбиря","aliases":["корень имбиря"]}
+{"category":"Фрукты и овощи","value":"Корень лопуха","aliases":["корень лопуха"]}
+{"category":"Фрукты и овощи","value":"Лук-шалот","aliases":["лук-шалот"]}
+{"category":"Фрукты и овощи","value":"Чеснок","aliases":["чеснок"]}
+{"category":"Фрукты и овощи","value":"Морковь","aliases":["морковь"]}
+{"category":"Фрукты и овощи","value":"Пастернак","aliases":["пастернак"]}
+{"category":"Фрукты и овощи","value":"Редиска","aliases":["редиска"]}
+{"category":"Фрукты и овощи","value":"Репа","aliases":["репа"]}
+{"category":"Фрукты и овощи","value":"Физалис","aliases":["физалис"]}
+{"category":"Фрукты и овощи","value":"Кабачки молодые","aliases":["кабачки молодые","молодые кабачки"]}
+{"category":"Фрукты и овощи","value":"Помидоры","aliases":["помидоры"]}
+{"category":"Фрукты и овощи","value":"Перец чили","aliases":["перец чили"]}
+{"category":"Фрукты и овощи","value":"Кабачок","aliases":["кабачок"]}
+{"category":"Фрукты и овощи","value":"Кабачки","aliases":["кабачки"]}
+{"category":"Фрукты и овощи","value":"Огурцы","aliases":["огурцы"]}
+{"category":"Фрукты и овощи","value":"Фасоль","aliases":["фасоль"]}
+{"category":"Фрукты и овощи","value":"Арахис","aliases":["арахис"]}
+{"category":"Фрукты и овощи","value":"Бобы","aliases":["бобы"]}
+{"category":"Фрукты и овощи","value":"Бобы зелёные","aliases":["бобы зелёные","зелёные бобы"]}
+{"category":"Фрукты и овощи","value":"Вигна","aliases":["вигна"]}
+{"category":"Фрукты и овощи","value":"Горох","aliases":["горох"]}
+{"category":"Фрукты и овощи","value":"Зелёный горошек","aliases":["зелёный горошек","горошек зелёный"]}
+{"category":"Фрукты и овощи","value":"Маш","aliases":["маш"]}
+{"category":"Фрукты и овощи","value":"Нут","aliases":["нут"]}
+{"category":"Фрукты и овощи","value":"Чечевица","aliases":["чечевица"]}
+{"category":"Фрукты и овощи","value":"Фасоль","aliases":["фасоль"]}
+{"category":"Фрукты и овощи","value":"Брюссельская капуста","aliases":["брюссельская капуста","капуста брюссельская"]}
+{"category":"Фрукты и овощи","value":"Жеруха","aliases":["жеруха"]}
+{"category":"Фрукты и овощи","value":"Капуста   белокачанная","aliases":["капуста   белокачанная","капуста белокачанная"]}
+{"category":"Фрукты и овощи","value":"Брокколи","aliases":["брокколи"]}
+{"category":"Фрукты и овощи","value":"Брокколи китайская","aliases":["брокколи китайская","китайская брокколи"]}
+{"category":"Фрукты и овощи","value":"Брокколи рааб","aliases":["брокколи рааб"]}
+{"category":"Фрукты и овощи","value":"Капуста квашеная","aliases":["капуста квашеная"]}
+{"category":"Фрукты и овощи","value":"Капуста","aliases":["капуста"]}
+{"category":"Фрукты и овощи","value":"Капуста кудрявая","aliases":["капуста кудрявая"]}
+{"category":"Фрукты и овощи","value":"Капуста листовая","aliases":["капуста листовая"]}
+{"category":"Фрукты и овощи","value":"Капуста пекинская","aliases":["капуста пекинская","пекинская капуста"]}
+{"category":"Фрукты и овощи","value":"Капуста савойская","aliases":["капуста савойская"]}
+{"category":"Фрукты и овощи","value":"Кольраби","aliases":["кольраби"]}
+{"category":"Фрукты и овощи","value":"Цветная капуста","aliases":["цветная капуста","капуста цветная"]}
+{"category":"Фрукты и овощи","value":"Салат айсберг","aliases":["салат айсберг"]}
+{"category":"Фрукты и овощи","value":"Артишоки","aliases":["артишоки"]}
+{"category":"Фрукты и овощи","value":"Сельдерей","aliases":["сельдерей"]}
+{"category":"Фрукты и овощи","value":"Бамия","aliases":["бамия"]}
+{"category":"Фрукты и овощи","value":"Каперсы","aliases":["каперсы"]}
+{"category":"Фрукты и овощи","value":"Спаржа","aliases":["спаржа"]}
+{"category":"Фрукты и овощи","value":"Фенхель","aliases":["фенхель"]}
+{"category":"Фрукты и овощи","value":"Чайот","aliases":["чайот"]}
+{"category":"Фрукты и овощи","value":"Кукуруза","aliases":["кукуруза"]}
+{"category":"Фрукты и овощи","value":"Базилик","aliases":["базилик"]}
+{"category":"Фрукты и овощи","value":"Белокопытник","aliases":["белокопытник"]}
+{"category":"Фрукты и овощи","value":"Ботва","aliases":["ботва"]}
+{"category":"Фрукты и овощи","value":"Виноградные листья","aliases":["виноградные листья","листья виноградные"]}
+{"category":"Фрукты и овощи","value":"Кинза","aliases":["кинза"]}
+{"category":"Фрукты и овощи","value":"Кипрей","aliases":["кипрей"]}
+{"category":"Фрукты и овощи","value":"Лебеда","aliases":["лебеда"]}
+{"category":"Фрукты и овощи","value":"Лемонграсс","aliases":["лемонграсс"]}
+{"category":"Фрукты и овощи","value":"Листовая горчица","aliases":["листовая горчица","горчица листовая"]}
+{"category":"Фрукты и овощи","value":"Листья амаранта","aliases":["листья амаранта"]}
+{"category":"Фрукты и овощи","value":"Листья одуванчика","aliases":["листья одуванчика"]}
+{"category":"Фрукты и овощи","value":"Листья тыквы","aliases":["листья тыквы"]}
+{"category":"Фрукты и овощи","value":"Листья цикория","aliases":["листья цикория"]}
+{"category":"Фрукты и овощи","value":"Лук зелёный","aliases":["лук зелёный","зелёный лук"]}
+{"category":"Фрукты и овощи","value":"Лук-батун","aliases":["лук-батун"]}
+{"category":"Фрукты и овощи","value":"Лук-порей","aliases":["лук-порей"]}
+{"category":"Фрукты и овощи","value":"Мангольд","aliases":["мангольд"]}
+{"category":"Фрукты и овощи","value":"Марь","aliases":["марь"]}
+{"category":"Фрукты и овощи","value":"Мята","aliases":["мята"]}
+{"category":"Фрукты и овощи","value":"Петрушка","aliases":["петрушка"]}
+{"category":"Фрукты и овощи","value":"Портулак","aliases":["портулак"]}
+{"category":"Фрукты и овощи","value":"Ревеньстебель","aliases":["ревеньстебель"]}
+{"category":"Фрукты и овощи","value":"Розмарин","aliases":["розмарин"]}
+{"category":"Фрукты и овощи","value":"Руккола","aliases":["руккола"]}
+{"category":"Фрукты и овощи","value":"Тимьян","aliases":["тимьян"]}
+{"category":"Фрукты и овощи","value":"Укроп","aliases":["укроп"]}
+{"category":"Фрукты и овощи","value":"Шнитт-лук","aliases":["шнитт-лук"]}
+{"category":"Фрукты и овощи","value":"Гриб древесный","aliases":["гриб древесный"]}
+{"category":"Фрукты и овощи","value":"Грибы вешенки","aliases":["грибы вешенки"]}
+{"category":"Фрукты и овощи","value":"Грибы лисички","aliases":["грибы лисички"]}
+{"category":"Фрукты и овощи","value":"Грибы майтаке","aliases":["грибы майтаке"]}
+{"category":"Фрукты и овощи","value":"Грибы портобелло","aliases":["грибы портобелло"]}
+{"category":"Фрукты и овощи","value":"Грибы сморчки","aliases":["грибы сморчки"]}
+{"category":"Фрукты и овощи","value":"Грибы соломенные","aliases":["грибы соломенные","соломенные грибы"]}
+{"category":"Фрукты и овощи","value":"Грибы шиитаке","aliases":["грибы шиитаке"]}
+{"category":"Фрукты и овощи","value":"Грибы эноки","aliases":["грибы эноки"]}
+{"category":"Фрукты и овощи","value":"Шампиньоны","aliases":["шампиньоны"]}
+{"category":"Молочные продукты и яйца","value":"Белок куриного яйца","aliases":["белок куриного яйца","куриного белок яйца"]}
+{"category":"Молочные продукты и яйца","value":"Желток куриного яйца","aliases":["желток куриного яйца","куриного желток яйца"]}
+{"category":"Молочные продукты и яйца","value":"Заменители яиц","aliases":["заменители яиц"]}
+{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"]}
+{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"]}
+{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"]}
+{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"]}
+{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"]}
+{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"]}
+{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"]}
+{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"]}
+{"category":"Молочные продукты и яйца","value":"Яичный белок","aliases":["яичный белок","белок яичный"]}
+{"category":"Молочные продукты и яйца","value":"Сыр cливочный","aliases":["сыр cливочный","сыр c ливочный"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Бри","aliases":["сыр бри"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Брюнуст","aliases":["сыр брюнуст","брюнуст сыр"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Гауда","aliases":["сыр гауда","гауда сыр"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Грюйер","aliases":["сыр грюйер","грюйер сыр"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Камамбер","aliases":["сыр камамбер"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Кесо Фреско","aliases":["сыр кесо фреско","кесо сыр фреско"]}
+{"category":"Молочные продукты и яйца","value":"Сыр козий","aliases":["сыр козий","козий сыр"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Колби","aliases":["сыр колби"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Лимбургер","aliases":["сыр лимбургер","лимбургер сыр"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Аньехо","aliases":["сыр аньехо","аньехо сыр"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Кесо Чихуахуа","aliases":["сыр кесо чихуахуа","кесо сыр чихуахуа"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Котиха","aliases":["сыр котиха","котиха сыр"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Оахака","aliases":["сыр оахака"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Монтерей","aliases":["сыр монтерей"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Моцарелла","aliases":["сыр моцарелла"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Мюнстер","aliases":["сыр мюнстер"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Нёшатель","aliases":["сыр нёшатель","нёшатель сыр"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Пармезан","aliases":["сыр пармезан"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Пекорино Романо","aliases":["сыр пекорино романо","пекорино сыр романо"]}
+{"category":"Молочные продукты и яйца","value":"Сыр плавленый","aliases":["сыр плавленый"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Пор-Салю","aliases":["сыр пор-салю","пор-салю сыр"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Проволоне","aliases":["сыр проволоне","проволоне сыр"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Рикотта","aliases":["сыр рикотта","рикотта сыр"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Рокфор","aliases":["сыр рокфор"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Тильзитер","aliases":["сыр тильзитер","тильзитер сыр"]}
+{"category":"Молочные продукты и яйца","value":"Сыр фета","aliases":["сыр фета"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Филадельфия","aliases":["сыр филадельфия"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Фонтина","aliases":["сыр фонтина","фонтина сыр"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Чеддер","aliases":["сыр чеддер"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Чешир","aliases":["сыр чешир"]}
+{"category":"Молочные продукты и яйца","value":"Сыр швейцарский","aliases":["сыр швейцарский","швейцарский сыр"]}
+{"category":"Молочные продукты и яйца","value":"Сыр Эдам","aliases":["сыр эдам"]}
+{"category":"Молочные продукты и яйца","value":"Сыры с плесенью","aliases":["сыры с плесенью"]}
+{"category":"Молочные продукты и яйца","value":"Йогурт","aliases":["йогурт"]}
+{"category":"Молочные продукты и яйца","value":"Кефир","aliases":["кефир"]}
+{"category":"Молочные продукты и яйца","value":"Молоко","aliases":["молоко"]}
+{"category":"Молочные продукты и яйца","value":"Молоко козье","aliases":["молоко козье"]}
+{"category":"Молочные продукты и яйца","value":"Молоко коровье","aliases":["молоко коровье","коровье молоко"]}
+{"category":"Молочные продукты и яйца","value":"Молоко овечье","aliases":["молоко овечье"]}
+{"category":"Молочные продукты и яйца","value":"Молоко сгущённое","aliases":["молоко сгущённое"]}
+{"category":"Молочные продукты и яйца","value":"Молоко сухое","aliases":["молоко сухое","сухое молоко"]}
+{"category":"Молочные продукты и яйца","value":"Молочная сыворотка","aliases":["молочная сыворотка","сыворотка молочная"]}
+{"category":"Молочные продукты и яйца","value":"Ряженка","aliases":["ряженка"]}
+{"category":"Молочные продукты и яйца","value":"Сметана","aliases":["сметана"]}
+{"category":"Молочные продукты и яйца","value":"Сгущенка","aliases":["сгущенка"]}
+{"category":"Молочные продукты и яйца","value":"Творог","aliases":["творог"]}
+{"category":"Молочные продукты и яйца","value":"Сырок","aliases":["сырок"]}
+{"category":"Молочные продукты и яйца","value":"Сырки","aliases":["сырки"]}
+{"category":"Молочные продукты и яйца","value":"Нарине","aliases":["нарине"]}
+{"category":"Молочные продукты и яйца","value":"Масло сливочное","aliases":["масло сливочное","сливочное масло"]}
+{"category":"Молочные продукты и яйца","value":"Маргарин","aliases":["маргарин"]}
+{"category":"Молочные продукты и яйца","value":"Масло абрикосовое","aliases":["масло абрикосовое"]}
+{"category":"Молочные продукты и яйца","value":"Масло авокадо","aliases":["масло авокадо"]}
+{"category":"Молочные продукты и яйца","value":"Масло арахисовое","aliases":["масло арахисовое","арахисовое масло"]}
+{"category":"Молочные продукты и яйца","value":"Масло бабассу","aliases":["масло бабассу"]}
+{"category":"Молочные продукты и яйца","value":"Масло виноградных косточек","aliases":["масло виноградных косточек","виноградных масло косточек"]}
+{"category":"Молочные продукты и яйца","value":"Масло горчичное","aliases":["масло горчичное"]}
+{"category":"Молочные продукты и яйца","value":"Масло грецкого ореха","aliases":["масло грецкого ореха"]}
+{"category":"Молочные продукты и яйца","value":"Масло зародышей пшеницы","aliases":["масло зародышей пшеницы"]}
+{"category":"Молочные продукты и яйца","value":"Масло какао","aliases":["масло какао"]}
+{"category":"Молочные продукты и яйца","value":"Масло канолы","aliases":["масло канолы"]}
+{"category":"Молочные продукты и яйца","value":"Масло кокосовое","aliases":["масло кокосовое","кокосовое масло"]}
+{"category":"Молочные продукты и яйца","value":"Масло кукурузное","aliases":["масло кукурузное"]}
+{"category":"Молочные продукты и яйца","value":"Масло кунжутное","aliases":["масло кунжутное"]}
+{"category":"Молочные продукты и яйца","value":"Масло льняное","aliases":["масло льняное","льняное масло"]}
+{"category":"Молочные продукты и яйца","value":"Масло маковое","aliases":["масло маковое"]}
+{"category":"Молочные продукты и яйца","value":"Масло миндальное","aliases":["масло миндальное"]}
+{"category":"Молочные продукты и яйца","value":"Масло овса","aliases":["масло овса"]}
+{"category":"Молочные продукты и яйца","value":"Масло оливковое","aliases":["масло оливковое","оливковое масло"]}
+{"category":"Молочные продукты и яйца","value":"Масло пальмовое","aliases":["масло пальмовое","пальмовое масло"]}
+{"category":"Молочные продукты и яйца","value":"Масло подсолнечное","aliases":["масло подсолнечное"]}
+{"category":"Молочные продукты и яйца","value":"Масло рисовых отрубей","aliases":["масло рисовых отрубей","рисовых масло отрубей"]}
+{"category":"Молочные продукты и яйца","value":"Масло сафлоровое","aliases":["масло сафлоровое"]}
+{"category":"Молочные продукты и яйца","value":"Масло соевое","aliases":["масло соевое"]}
+{"category":"Молочные продукты и яйца","value":"Масло фундука","aliases":["масло фундука"]}
+{"category":"Молочные продукты и яйца","value":"Масло хлопковое","aliases":["масло хлопковое"]}
+{"category":"Молочные продукты и яйца","value":"Масло ши карите","aliases":["масло ши карите"]}
+{"category":"Мясо и птица","value":"Вырезка свиная","aliases":["вырезка свиная","свиная вырезка"]}
+{"category":"Мясо и птица","value":"Грудинка свиная","aliases":["грудинка свиная"]}
+{"category":"Мясо и птица","value":"Карбонат свиной","aliases":["карбонат свиной"]}
+{"category":"Мясо и птица","value":"Корейка свиная","aliases":["корейка свиная"]}
+{"category":"Мясо и птица","value":"Лопатка свиная","aliases":["лопатка свиная","свиная лопатка"]}
+{"category":"Мясо и птица","value":"Мясо свиное   филе","aliases":["мясо свиное   филе","свиное мясо филе"]}
+{"category":"Мясо и птица","value":"Нутряной свиной жир","aliases":["нутряной свиной жир","нутряной жир свиной"]}
+{"category":"Мясо и птица","value":"Рёбрышки  рёбра  свиные","aliases":["рёбрышки  рёбра  свиные","рёбрышки свиные рёбра"]}
+{"category":"Мясо и птица","value":"Рёбрышки свиные  кантри","aliases":["рёбрышки свиные  кантри","свиные кантри рёбрышки"]}
+{"category":"Мясо и птица","value":"Сало свиное  без прослойки","aliases":["сало свиное  без прослойки","свиное сало без прослойки"]}
+{"category":"Мясо и птица","value":"Сало свиное  с прослойкой","aliases":["сало свиное  с прослойкой","свиное сало с прослойкой"]}
+{"category":"Мясо и птица","value":"Свиная рулька  голяшка","aliases":["свиная рулька  голяшка","свиная голяшка рулька"]}
+{"category":"Мясо и птица","value":"Свинина","aliases":["свинина"]}
+{"category":"Мясо и птица","value":"Свиной окорок","aliases":["свиной окорок","окорок свиной"]}
+{"category":"Мясо и птица","value":"Фарш свиной","aliases":["фарш свиной","свиной фарш"]}
+{"category":"Мясо и птица","value":"Шейка свиная","aliases":["шейка свиная","свиная шейка"]}
+{"category":"Мясо и птица","value":"Свиная печень","aliases":["свиная печень","печень свиная"]}
+{"category":"Мясо и птица","value":"Свиная поджелудочная железа","aliases":["свиная поджелудочная железа","поджелудочная железа свиная"]}
+{"category":"Мясо и птица","value":"Свиная селезёнка","aliases":["свиная селезёнка"]}
+{"category":"Мясо и птица","value":"Свиная щековина","aliases":["свиная щековина"]}
+{"category":"Мясо и птица","value":"Свиное лёгкое","aliases":["свиное лёгкое"]}
+{"category":"Мясо и птица","value":"Свиное сердце","aliases":["свиное сердце","сердце свиное"]}
+{"category":"Мясо и птица","value":"Свиной желудок","aliases":["свиной желудок","желудок свиной"]}
+{"category":"Мясо и птица","value":"Свиной мозг","aliases":["свиной мозг","мозг свиной"]}
+{"category":"Мясо и птица","value":"Свиной хвост","aliases":["свиной хвост","хвост свиной"]}
+{"category":"Мясо и птица","value":"Свиной язык","aliases":["свиной язык","язык свиной"]}
+{"category":"Мясо и птица","value":"Свиные кишки","aliases":["свиные кишки","кишки свиные"]}
+{"category":"Мясо и птица","value":"Свиные ножки","aliases":["свиные ножки","ножки свиные"]}
+{"category":"Мясо и птица","value":"Свиные почки","aliases":["свиные почки","почки свиные"]}
+{"category":"Мясо и птица","value":"Свиные уши","aliases":["свиные уши","уши свиные"]}
+{"category":"Мясо и птица","value":"Говядина мясо","aliases":["говядина мясо"]}
+{"category":"Мясо и птица","value":"Говяжий огузок  кострец","aliases":["говяжий огузок  кострец","огузок кострец говяжий"]}
+{"category":"Мясо и птица","value":"Говяжий толстый край","aliases":["говяжий толстый край","говяжий край толстый"]}
+{"category":"Мясо и птица","value":"Говяжий тонкий край  Стриплойн","aliases":["говяжий тонкий край  стриплойн","говяжий край тонкий стриплойн"]}
+{"category":"Мясо и птица","value":"Говяжьи рёбра","aliases":["говяжьи рёбра"]}
+{"category":"Мясо и птица","value":"Говяжья вырезка  Тендерлойн","aliases":["говяжья вырезка  тендерлойн","говяжья тендерлойн вырезка"]}
+{"category":"Мясо и птица","value":"Говяжья голяшка","aliases":["говяжья голяшка"]}
+{"category":"Мясо и птица","value":"Говяжья грудинка","aliases":["говяжья грудинка"]}
+{"category":"Мясо и птица","value":"Говяжья лопатка","aliases":["говяжья лопатка"]}
+{"category":"Мясо и птица","value":"Говяжья пашина  брюшина  фланк","aliases":["говяжья пашина  брюшина  фланк","говяжья брюшина пашина фланк"]}
+{"category":"Мясо и птица","value":"Говяжья шея","aliases":["говяжья шея"]}
+{"category":"Мясо и птица","value":"Телятина","aliases":["телятина"]}
+{"category":"Мясо и птица","value":"Фарш говяжий","aliases":["фарш говяжий"]}
+{"category":"Мясо и птица","value":"Говяжий мозг","aliases":["говяжий мозг","мозг говяжий"]}
+{"category":"Мясо и птица","value":"Говяжий рубец","aliases":["говяжий рубец","рубец говяжий"]}
+{"category":"Мясо и птица","value":"Говяжий язык","aliases":["говяжий язык","язык говяжий"]}
+{"category":"Мясо и птица","value":"Говяжье лёгкое","aliases":["говяжье лёгкое"]}
+{"category":"Мясо и птица","value":"Говяжье сердце","aliases":["говяжье сердце","сердце говяжье"]}
+{"category":"Мясо и птица","value":"Говяжьи почки","aliases":["говяжьи почки"]}
+{"category":"Мясо и птица","value":"Говяжья печень","aliases":["говяжья печень"]}
+{"category":"Мясо и птица","value":"Куриная голень","aliases":["куриная голень"]}
+{"category":"Мясо и птица","value":"Куриная грудка","aliases":["куриная грудка","грудка куриная"]}
+{"category":"Мясо и птица","value":"Куриная спинка","aliases":["куриная спинка","спинка куриная"]}
+{"category":"Мясо и птица","value":"Куриная спинка","aliases":["куриная спинка","спинка куриная"]}
+{"category":"Мясо и птица","value":"Куриные бёдра","aliases":["куриные бёдра","бёдра куриные"]}
+{"category":"Мясо и птица","value":"Куриные крылышки","aliases":["куриные крылышки"]}
+{"category":"Мясо и птица","value":"Куриные ножки  окорочка","aliases":["куриные ножки  окорочка","ножки окорочка куриные"]}
+{"category":"Мясо и птица","value":"Куриный фарш","aliases":["куриный фарш","фарш куриный"]}
+{"category":"Мясо и птица","value":"Курица  куриное мясо","aliases":["курица  куриное мясо","куриное курица мясо"]}
+{"category":"Мясо и птица","value":"Филе куриной грудки  мясо","aliases":["филе куриной грудки  мясо","куриной филе грудки мясо"]}
+{"category":"Мясо и птица","value":"Куриная кожа","aliases":["куриная кожа","кожа куриная"]}
+{"category":"Мясо и птица","value":"Куриная печень","aliases":["куриная печень","печень куриная"]}
+{"category":"Мясо и птица","value":"Куриные жулудки","aliases":["куриные жулудки","жулудки куриные"]}
+{"category":"Мясо и птица","value":"Куриные сердца","aliases":["куриные сердца","сердца куриные"]}
+{"category":"Мясо и птица","value":"Бедро индейки","aliases":["бедро индейки"]}
+{"category":"Мясо и птица","value":"Голень индейки","aliases":["голень индейки"]}
+{"category":"Мясо и птица","value":"Грудка индейки","aliases":["грудка индейки"]}
+{"category":"Мясо и птица","value":"Желудки индейки","aliases":["желудки индейки"]}
+{"category":"Мясо и птица","value":"Индейка мясо","aliases":["индейка мясо"]}
+{"category":"Мясо и птица","value":"Кожа индейки","aliases":["кожа индейки"]}
+{"category":"Мясо и птица","value":"Мясо индейки","aliases":["мясо индейки"]}
+{"category":"Мясо и птица","value":"Печень индейки","aliases":["печень индейки"]}
+{"category":"Мясо и птица","value":"Сердце индейки","aliases":["сердце индейки"]}
+{"category":"Мясо и птица","value":"Шея индейки","aliases":["шея индейки"]}
+{"category":"Мясо и птица","value":"Филе индейки","aliases":["филе индейки"]}
+{"category":"Мясо и птица","value":"Индюшатина","aliases":["индюшатина"]}
+{"category":"Колбаса и сосиски","value":"Ветчина","aliases":["ветчина"]}
+{"category":"Колбаса и сосиски","value":"Колбаса","aliases":["колбаса"]}
+{"category":"Колбаса и сосиски","value":"Колбаса докторская","aliases":["колбаса докторская"]}
+{"category":"Колбаса и сосиски","value":"Колбаса копчёная","aliases":["колбаса копчёная","копчёная колбаса"]}
+{"category":"Колбаса и сосиски","value":"Колбаса кровяная","aliases":["колбаса кровяная","кровяная колбаса"]}
+{"category":"Колбаса и сосиски","value":"Колбаса Пепперони","aliases":["колбаса пепперони","пепперони колбаса"]}
+{"category":"Колбаса и сосиски","value":"Паштет","aliases":["паштет"]}
+{"category":"Колбаса и сосиски","value":"Салями","aliases":["салями"]}
+{"category":"Колбаса и сосиски","value":"Сосиски","aliases":["сосиски"]}
+{"category":"Колбаса и сосиски","value":"Сосиски молочные","aliases":["сосиски молочные"]}
+{"category":"Колбаса и сосиски","value":"Колбаса Вареная","aliases":["колбаса вареная"]}
+{"category":"Колбаса и сосиски","value":"Сервилат","aliases":["сервилат"]}
+{"category":"Хлеб и выпечка","value":"Блины","aliases":["блины"]}
+{"category":"Хлеб и выпечка","value":"Булочки","aliases":["булочки"]}
+{"category":"Хлеб и выпечка","value":"Лаваш","aliases":["лаваш"]}
+{"category":"Хлеб и выпечка","value":"Лепёшки","aliases":["лепёшки"]}
+{"category":"Хлеб и выпечка","value":"Лепёшка","aliases":["лепёшка"]}
+{"category":"Хлеб и выпечка","value":"Пита","aliases":["пита"]}
+{"category":"Хлеб и выпечка","value":"Пончики","aliases":["пончики"]}
+{"category":"Хлеб и выпечка","value":"Сухари из хлеба","aliases":["сухари из хлеба"]}
+{"category":"Хлеб и выпечка","value":"Сухари панировочные","aliases":["сухари панировочные"]}
+{"category":"Хлеб и выпечка","value":"Тортилья","aliases":["тортилья"]}
+{"category":"Хлеб и выпечка","value":"Фокачча","aliases":["фокачча"]}
+{"category":"Хлеб и выпечка","value":"Хлеб белый пшеничный","aliases":["хлеб белый пшеничный","белый хлеб пшеничный"]}
+{"category":"Хлеб и выпечка","value":"Хлеб из овсяных отрубей","aliases":["хлеб из овсяных отрубей","хлеб из отрубей овсяных"]}
+{"category":"Хлеб и выпечка","value":"Хлеб из пророщенной пшеницы","aliases":["хлеб из пророщенной пшеницы","хлеб из пшеницы пророщенной"]}
+{"category":"Хлеб и выпечка","value":"Хлеб из пшеничных отрубей","aliases":["хлеб из пшеничных отрубей"]}
+{"category":"Хлеб и выпечка","value":"Хлеб из рисовых отрубей","aliases":["хлеб из рисовых отрубей","хлеб из отрубей рисовых"]}
+{"category":"Хлеб и выпечка","value":"Хлеб мультизерновой","aliases":["хлеб мультизерновой"]}
+{"category":"Хлеб и выпечка","value":"Хлеб овсяный","aliases":["хлеб овсяный"]}
+{"category":"Хлеб и выпечка","value":"Хлеб пшеничный цельнозерновой","aliases":["хлеб пшеничный цельнозерновой","пшеничный хлеб цельнозерновой"]}
+{"category":"Хлеб и выпечка","value":"Хлеб ржаной","aliases":["хлеб ржаной"]}
+{"category":"Хлеб и выпечка","value":"Хлебцы мультизерновые","aliases":["хлебцы мультизерновые","мультизерновые хлебцы"]}
+{"category":"Хлеб и выпечка","value":"Хлебцы ржаные","aliases":["хлебцы ржаные","ржаные хлебцы"]}
+{"category":"Хлеб и выпечка","value":"Хлеб белый","aliases":["хлеб белый","белый хлеб"]}
+{"category":"Хлеб и выпечка","value":"Хлеб черный","aliases":["хлеб черный","черный хлеб"]}
+{"category":"Хлеб и выпечка","value":"Хлеб серый","aliases":["хлеб серый","серый хлеб"]}
+{"category":"Бакалея и крупы","value":"Булгур","aliases":["булгур"]}
+{"category":"Бакалея и крупы","value":"Гречка","aliases":["гречка"]}
+{"category":"Бакалея и крупы","value":"Гречка зелёная","aliases":["гречка зелёная"]}
+{"category":"Бакалея и крупы","value":"Зёрна кукурузы","aliases":["зёрна кукурузы"]}
+{"category":"Бакалея и крупы","value":"Киноа","aliases":["киноа"]}
+{"category":"Бакалея и крупы","value":"Крупа амарантовая","aliases":["крупа амарантовая"]}
+{"category":"Бакалея и крупы","value":"Крупа кукурузная","aliases":["крупа кукурузная"]}
+{"category":"Бакалея и крупы","value":"Крупа пшеничная","aliases":["крупа пшеничная","пшеничная крупа"]}
+{"category":"Бакалея и крупы","value":"Крупа теф","aliases":["крупа теф"]}
+{"category":"Бакалея и крупы","value":"Крупа ячневая","aliases":["крупа ячневая"]}
+{"category":"Бакалея и крупы","value":"Кускус","aliases":["кускус"]}
+{"category":"Бакалея и крупы","value":"Манка","aliases":["манка"]}
+{"category":"Бакалея и крупы","value":"Мюсли","aliases":["мюсли"]}
+{"category":"Бакалея и крупы","value":"Мюсли","aliases":["мюсли"]}
+{"category":"Бакалея и крупы","value":"Овсяная крупа","aliases":["овсяная крупа","крупа овсяная"]}
+{"category":"Бакалея и крупы","value":"Овсяные хлопья","aliases":["овсяные хлопья"]}
+{"category":"Бакалея и крупы","value":"Перловка","aliases":["перловка"]}
+{"category":"Бакалея и крупы","value":"Полба","aliases":["полба"]}
+{"category":"Бакалея и крупы","value":"Пшено пшённая","aliases":["пшено пшённая"]}
+{"category":"Бакалея и крупы","value":"Ржаное зерно","aliases":["ржаное зерно","зерно ржаное"]}
+{"category":"Бакалея и крупы","value":"Сорго","aliases":["сорго"]}
+{"category":"Бакалея и крупы","value":"Тритикалене","aliases":["тритикалене"]}
+{"category":"Бакалея и крупы","value":"Рис","aliases":["рис"]}
+{"category":"Бакалея и крупы","value":"Мука","aliases":["мука"]}
+{"category":"Бакалея и крупы","value":"Греча","aliases":["греча"]}
+{"category":"Бакалея и крупы","value":"Овсянка","aliases":["овсянка"]}
+{"category":"Бакалея и крупы","value":"Сухофрукты","aliases":["сухофрукты"]}
+{"category":"Бакалея и крупы","value":"Аспартам","aliases":["аспартам"]}
+{"category":"Бакалея и крупы","value":"Сахар","aliases":["сахар"]}
+{"category":"Бакалея и крупы","value":"Сахар коричневый","aliases":["сахар коричневый","коричневый сахар"]}
+{"category":"Бакалея и крупы","value":"Сахарин","aliases":["сахарин"]}
+{"category":"Бакалея и крупы","value":"Сироп агавы","aliases":["сироп агавы"]}
+{"category":"Бакалея и крупы","value":"Стевия","aliases":["стевия"]}
+{"category":"Бакалея и крупы","value":"Сукралоза","aliases":["сукралоза"]}
+{"category":"Бакалея и крупы","value":"Фруктоза","aliases":["фруктоза"]}
+{"category":"Бакалея и крупы","value":"Сахарозаменитель","aliases":["сахарозаменитель"]}
+{"category":"Бакалея и крупы","value":"Сахарный песок","aliases":["сахарный песок","песок сахарный"]}
+{"category":"Бакалея и крупы","value":"Лапша","aliases":["лапша"]}
+{"category":"Бакалея и крупы","value":"Макароны","aliases":["макароны"]}
+{"category":"Бакалея и крупы","value":"Лапша гречневая","aliases":["лапша гречневая","гречневая лапша"]}
+{"category":"Бакалея и крупы","value":"Паста","aliases":["паста"]}
+{"category":"Бакалея и крупы","value":"Лапша домашняя","aliases":["лапша домашняя"]}
+{"category":"Бакалея и крупы","value":"Лапша из цельнозерновой пшеницы","aliases":["лапша из цельнозерновой пшеницы","лапша из пшеницы цельнозерновой"]}
+{"category":"Бакалея и крупы","value":"Лапша кукурузная","aliases":["лапша кукурузная"]}
+{"category":"Бакалея и крупы","value":"Лапша пшеничная  удон","aliases":["лапша пшеничная  удон","лапша удон пшеничная"]}
+{"category":"Бакалея и крупы","value":"Лапша рисовая","aliases":["лапша рисовая","рисовая лапша"]}
+{"category":"Бакалея и крупы","value":"Лапша яичная","aliases":["лапша яичная"]}
+{"category":"Рыба и морепродукты","value":"Анчоусы","aliases":["анчоусы"]}
+{"category":"Рыба и морепродукты","value":"Горбуша","aliases":["горбуша"]}
+{"category":"Рыба и морепродукты","value":"Горбыль","aliases":["горбыль"]}
+{"category":"Рыба и морепродукты","value":"Групер","aliases":["групер"]}
+{"category":"Рыба и морепродукты","value":"Желтохвост","aliases":["желтохвост"]}
+{"category":"Рыба и морепродукты","value":"Зубатка","aliases":["зубатка"]}
+{"category":"Рыба и морепродукты","value":"Камбала","aliases":["камбала"]}
+{"category":"Рыба и морепродукты","value":"Карп","aliases":["карп"]}
+{"category":"Рыба и морепродукты","value":"Кета","aliases":["кета"]}
+{"category":"Рыба и морепродукты","value":"Кефаль","aliases":["кефаль"]}
+{"category":"Рыба и морепродукты","value":"Кижуч","aliases":["кижуч"]}
+{"category":"Рыба и морепродукты","value":"Корюшка","aliases":["корюшка"]}
+{"category":"Рыба и морепродукты","value":"Луциан","aliases":["луциан"]}
+{"category":"Рыба и морепродукты","value":"Масляная рыба","aliases":["масляная рыба","рыба масляная"]}
+{"category":"Рыба и морепродукты","value":"Махи-махи","aliases":["махи-махи"]}
+{"category":"Рыба и морепродукты","value":"Менёк","aliases":["менёк"]}
+{"category":"Рыба и морепродукты","value":"Мерланг","aliases":["мерланг"]}
+{"category":"Рыба и морепродукты","value":"Минтай","aliases":["минтай"]}
+{"category":"Рыба и морепродукты","value":"Молочная рыба","aliases":["молочная рыба","рыба молочная"]}
+{"category":"Рыба и морепродукты","value":"Мольва","aliases":["мольва"]}
+{"category":"Рыба и морепродукты","value":"Морской чёрт","aliases":["морской чёрт"]}
+{"category":"Рыба и морепродукты","value":"Мясо акулы","aliases":["мясо акулы"]}
+{"category":"Рыба и морепродукты","value":"Налим","aliases":["налим"]}
+{"category":"Рыба и морепродукты","value":"Нерка","aliases":["нерка"]}
+{"category":"Рыба и морепродукты","value":"Окунь речной","aliases":["окунь речной"]}
+{"category":"Рыба и морепродукты","value":"Омуль","aliases":["омуль"]}
+{"category":"Рыба и морепродукты","value":"Осётр","aliases":["осётр"]}
+{"category":"Рыба и морепродукты","value":"Палтус","aliases":["палтус"]}
+{"category":"Рыба и морепродукты","value":"Рыба-меч","aliases":["рыба-меч"]}
+{"category":"Рыба и морепродукты","value":"Сельдь","aliases":["сельдь"]}
+{"category":"Рыба и морепродукты","value":"Сёмга","aliases":["сёмга"]}
+{"category":"Рыба и морепродукты","value":"Сибас","aliases":["сибас"]}
+{"category":"Рыба и морепродукты","value":"Скумбрия","aliases":["скумбрия"]}
+{"category":"Рыба и морепродукты","value":"Сом","aliases":["сом"]}
+{"category":"Рыба и морепродукты","value":"Судак","aliases":["судак"]}
+{"category":"Рыба и морепродукты","value":"Сурими","aliases":["сурими"]}
+{"category":"Рыба и морепродукты","value":"Терпуг","aliases":["терпуг"]}
+{"category":"Рыба и морепродукты","value":"Тилапия","aliases":["тилапия"]}
+{"category":"Рыба и морепродукты","value":"Треска","aliases":["треска"]}
+{"category":"Рыба и морепродукты","value":"Угорь","aliases":["угорь"]}
+{"category":"Рыба и морепродукты","value":"Форель","aliases":["форель"]}
+{"category":"Рыба и морепродукты","value":"Чавыча","aliases":["чавыча"]}
+{"category":"Рыба и морепродукты","value":"Щука","aliases":["щука"]}
+{"category":"Рыба и морепродукты","value":"Окунь","aliases":["окунь"]}
+{"category":"Рыба и морепродукты","value":"Карась","aliases":["карась"]}
+{"category":"Рыба и морепродукты","value":"Кальмар","aliases":["кальмар"]}
+{"category":"Рыба и морепродукты","value":"Рак","aliases":["рак"]}
+{"category":"Рыба и морепродукты","value":"Раки","aliases":["раки"]}
+{"category":"Рыба и морепродукты","value":"Каракатица","aliases":["каракатица"]}
+{"category":"Рыба и морепродукты","value":"Мидииотварные","aliases":["мидииотварные"]}
+{"category":"Рыба и морепродукты","value":"Мидии","aliases":["мидии"]}
+{"category":"Рыба и морепродукты","value":"Спирулина","aliases":["спирулина"]}
+{"category":"Рыба и морепродукты","value":"Моллюски","aliases":["моллюски"]}
+{"category":"Рыба и морепродукты","value":"Водоросли","aliases":["водоросли"]}
+{"category":"Рыба и морепродукты","value":"Морские ушки","aliases":["морские ушки","ушки морские"]}
+{"category":"Рыба и морепродукты","value":"Нори","aliases":["нори"]}
+{"category":"Рыба и морепродукты","value":"Морской гребешок","aliases":["морской гребешок","гребешок морской"]}
+{"category":"Рыба и морепродукты","value":"Ирландский мох","aliases":["ирландский мох","мох ирландский"]}
+{"category":"Рыба и морепродукты","value":"Осьминог","aliases":["осьминог"]}
+{"category":"Рыба и морепродукты","value":"Улитки","aliases":["улитки"]}
+{"category":"Рыба и морепродукты","value":"Устрицызапечённые","aliases":["устрицызапечённые"]}
+{"category":"Рыба и морепродукты","value":"Устрицы","aliases":["устрицы"]}
+{"category":"Рыба и морепродукты","value":"Морская капуста","aliases":["морская капуста","капуста морская"]}
+{"category":"Рыба и морепродукты","value":"Камчатский краб","aliases":["камчатский краб","краб камчатский"]}
+{"category":"Рыба и морепродукты","value":"Краб","aliases":["краб"]}
+{"category":"Рыба и морепродукты","value":"Омар","aliases":["омар"]}
+{"category":"Рыба и морепродукты","value":"Крабовые палочки","aliases":["крабовые палочки","палочки крабовые"]}
+{"category":"Рыба и морепродукты","value":"Креветки","aliases":["креветки"]}
+{"category":"Рыба и морепродукты","value":"Лангуст","aliases":["лангуст"]}
+{"category":"Рыба и морепродукты","value":"Лобстер","aliases":["лобстер"]}
+{"category":"Алкогольные напитки","value":"Вино","aliases":["вино"]}
+{"category":"Алкогольные напитки","value":"Вино белое","aliases":["вино белое","белое вино"]}
+{"category":"Алкогольные напитки","value":"Вино полусухое","aliases":["вино полусухое"]}
+{"category":"Алкогольные напитки","value":"Вино сухое","aliases":["вино сухое","сухое вино"]}
+{"category":"Алкогольные напитки","value":"Вино красное","aliases":["вино красное","красное вино"]}
+{"category":"Алкогольные напитки","value":"Вино розовое","aliases":["вино розовое","розовое вино"]}
+{"category":"Алкогольные напитки","value":"Виски","aliases":["виски"]}
+{"category":"Алкогольные напитки","value":"Водка","aliases":["водка"]}
+{"category":"Алкогольные напитки","value":"Джин","aliases":["джин"]}
+{"category":"Алкогольные напитки","value":"Пиво","aliases":["пиво"]}
+{"category":"Алкогольные напитки","value":"Ром","aliases":["ром"]}
+{"category":"Алкогольные напитки","value":"Сакэ","aliases":["сакэ"]}
+{"category":"Алкогольные напитки","value":"Вино полусладкое","aliases":["вино полусладкое"]}
+{"category":"Алкогольные напитки","value":"Пиво тёмное","aliases":["пиво тёмное","тёмное пиво"]}
+{"category":"Алкогольные напитки","value":"Пиво светлое","aliases":["пиво светлое","светлое пиво"]}
+{"category":"Безалкогольные напитки","value":"Кола","aliases":["кола"]}
+{"category":"Безалкогольные напитки","value":"Холодный чай","aliases":["холодный чай","чай холодный"]}
+{"category":"Безалкогольные напитки","value":"Кофе","aliases":["кофе"]}
+{"category":"Безалкогольные напитки","value":"Энергетический напиток","aliases":["энергетический напиток","напиток энергетический"]}
+{"category":"Безалкогольные напитки","value":"Спрайт","aliases":["спрайт"]}
+{"category":"Безалкогольные напитки","value":"Фанта","aliases":["фанта"]}
+{"category":"Сладости и кондитерские изделия","value":"Жевательная резинка","aliases":["жевательная резинка","резинка жевательная"]}
+{"category":"Сладости и кондитерские изделия","value":"Зефир","aliases":["зефир"]}
+{"category":"Сладости и кондитерские изделия","value":"Ирис","aliases":["ирис"]}
+{"category":"Сладости и кондитерские изделия","value":"Карамель","aliases":["карамель"]}
+{"category":"Сладости и кондитерские изделия","value":"Кекс шоколадныйс шоколадной глазурью","aliases":["кекс шоколадныйс шоколадной глазурью","кекс шоколадныйс глазурью шоколадной"]}
+{"category":"Сладости и кондитерские изделия","value":"Конфеты","aliases":["конфеты"]}
+{"category":"Сладости и кондитерские изделия","value":"Коржи бисквитные для торта","aliases":["коржи бисквитные для торта","бисквитные коржи для торта"]}
+{"category":"Сладости и кондитерские изделия","value":"Коржи шоколадные для торта","aliases":["коржи шоколадные для торта","шоколадные коржи для торта"]}
+{"category":"Сладости и кондитерские изделия","value":"Крекер","aliases":["крекер"]}
+{"category":"Сладости и кондитерские изделия","value":"Крендельки","aliases":["крендельки"]}
+{"category":"Сладости и кондитерские изделия","value":"Мармелад","aliases":["мармелад"]}
+{"category":"Сладости и кондитерские изделия","value":"Мёд","aliases":["мёд"]}
+{"category":"Сладости и кондитерские изделия","value":"Меласса","aliases":["меласса"]}
+{"category":"Сладости и кондитерские изделия","value":"Мороженое","aliases":["мороженое"]}
+{"category":"Сладости и кондитерские изделия","value":"Мороженое шоколадное","aliases":["мороженое шоколадное","шоколадное мороженое"]}
+{"category":"Сладости и кондитерские изделия","value":"Печенье овсяное","aliases":["печенье овсяное"]}
+{"category":"Сладости и кондитерские изделия","value":"Помадка","aliases":["помадка"]}
+{"category":"Сладости и кондитерские изделия","value":"Халва","aliases":["халва"]}
+{"category":"Сладости и кондитерские изделия","value":"Чизкейк","aliases":["чизкейк"]}
+{"category":"Сладости и кондитерские изделия","value":"Щербет","aliases":["щербет"]}
+{"category":"Сладости и кондитерские изделия","value":"Арахисовая паста","aliases":["арахисовая паста","паста арахисовая"]}
+{"category":"Сладости и кондитерские изделия","value":"Шоколадная паста","aliases":["шоколадная паста","паста шоколадная"]}
+{"category":"Сладости и кондитерские изделия","value":"Жвачка","aliases":["жвачка"]}
+{"category":"Сладости и кондитерские изделия","value":"Корж","aliases":["корж"]}
+{"category":"Сладости и кондитерские изделия","value":"Коржи","aliases":["коржи"]}
+{"category":"Сладости и кондитерские изделия","value":"Маршмэлоу","aliases":["маршмэлоу"]}
+{"category":"Сладости и кондитерские изделия","value":"Шоколад белый","aliases":["шоколад белый","белый шоколад"]}
+{"category":"Сладости и кондитерские изделия","value":"Шоколад молочный","aliases":["шоколад молочный","молочный шоколад"]}
+{"category":"Сладости и кондитерские изделия","value":"Шоколад тёмный","aliases":["шоколад тёмный","тёмный шоколад"]}
+{"category":"Сладости и кондитерские изделия","value":"Шоколадный батончик","aliases":["шоколадный батончик","батончик шоколадный"]}
+{"category":"Сладости и кондитерские изделия","value":"Шоколадка","aliases":["шоколадка"]}
+{"category":"Косервы","value":"Горошек консервированный","aliases":["горошек консервированный"]}
+{"category":"Косервы","value":"Кукуруза консервированная","aliases":["кукуруза консервированная"]}
+{"category":"Косервы","value":"Сардины","aliases":["сардины"]}
+{"category":"Косервы","value":"Тунец","aliases":["тунец"]}
+{"category":"Косервы","value":"Фасоль консервированная","aliases":["фасоль консервированная"]}
+{"category":"Косервы","value":"Супы консервированные","aliases":["супы консервированные"]}
+{"category":"Косервы","value":"Огурцы консервированные","aliases":["огурцы консервированные"]}
+{"category":"Косервы","value":"Ананасы консервированные","aliases":["ананасы консервированные"]}
+{"category":"Косервы","value":"Оливки","aliases":["оливки"]}
+{"category":"Косервы","value":"Шпроты","aliases":["шпроты"]}
+{"category":"Косервы","value":"Томаты консервированные","aliases":["томаты консервированные"]}
+{"category":"Косервы","value":"Паштеты","aliases":["паштеты"]}
+{"category":"Косервы","value":"Компоты","aliases":["компоты"]}
+{"category":"Косервы","value":"Шампиньоны","aliases":["шампиньоны"]}
+{"category":"Косервы","value":"Томатная паста","aliases":["томатная паста","паста томатная"]}
+{"category":"Косервы","value":"Анчоусы","aliases":["анчоусы"]}
+{"category":"Косервы","value":"Гуляш консервированный","aliases":["гуляш консервированный"]}
+{"category":"Соусы и специи","value":"Базилик","aliases":["базилик"]}
+{"category":"Соусы и специи","value":"Ваниль экстракт","aliases":["ваниль экстракт"]}
+{"category":"Соусы и специи","value":"Гвоздика","aliases":["гвоздика"]}
+{"category":"Соусы и специи","value":"Кервель ажурный","aliases":["кервель ажурный"]}
+{"category":"Соусы и специи","value":"Кориандр","aliases":["кориандр"]}
+{"category":"Соусы и специи","value":"Корица","aliases":["корица"]}
+{"category":"Соусы и специи","value":"Куркума","aliases":["куркума"]}
+{"category":"Соусы и специи","value":"Лавровый лист","aliases":["лавровый лист","лист лавровый"]}
+{"category":"Соусы и специи","value":"Луковый","aliases":["луковый"]}
+{"category":"Соусы и специи","value":"Майоран","aliases":["майоран"]}
+{"category":"Соусы и специи","value":"Мускатный орех","aliases":["мускатный орех","орех мускатный"]}
+{"category":"Соусы и специи","value":"Мята","aliases":["мята"]}
+{"category":"Соусы и специи","value":"Ореганодушица","aliases":["ореганодушица"]}
+{"category":"Соусы и специи","value":"Паприка","aliases":["паприка"]}
+{"category":"Соусы и специи","value":"Перец белый","aliases":["перец белый","белый перец"]}
+{"category":"Соусы и специи","value":"Перец душистый","aliases":["перец душистый","душистый перец"]}
+{"category":"Соусы и специи","value":"Перец чёрный","aliases":["перец чёрный"]}
+{"category":"Соусы и специи","value":"Перец чили","aliases":["перец чили"]}
+{"category":"Соусы и специи","value":"Перец чили","aliases":["перец чили"]}
+{"category":"Соусы и специи","value":"Петрушка","aliases":["петрушка"]}
+{"category":"Соусы и специи","value":"Розмарин","aliases":["розмарин"]}
+{"category":"Соусы и специи","value":"Соль","aliases":["соль"]}
+{"category":"Соусы и специи","value":"Тимьян","aliases":["тимьян"]}
+{"category":"Соусы и специи","value":"Укроп","aliases":["укроп"]}
+{"category":"Соусы и специи","value":"Чабер","aliases":["чабер"]}
+{"category":"Соусы и специи","value":"Чеснок","aliases":["чеснок"]}
+{"category":"Соусы и специи","value":"Шалфей","aliases":["шалфей"]}
+{"category":"Соусы и специи","value":"Шафран","aliases":["шафран"]}
+{"category":"Соусы и специи","value":"Экстракт имбиря","aliases":["экстракт имбиря"]}
+{"category":"Соусы и специи","value":"Эстрагон","aliases":["эстрагон"]}
+{"category":"Соусы и специи","value":"Зира","aliases":["зира"]}
+{"category":"Соусы и специи","value":"Семена кумина","aliases":["семена кумина"]}
+{"category":"Соусы и специи","value":"Кардамон","aliases":["кардамон"]}
+{"category":"Соусы и специи","value":"Кунжутне","aliases":["кунжутне"]}
+{"category":"Соусы и специи","value":"Кунжут","aliases":["кунжут"]}
+{"category":"Соусы и специи","value":"Пажитник","aliases":["пажитник"]}
+{"category":"Соусы и специи","value":"Семена аниса","aliases":["семена аниса"]}
+{"category":"Соусы и специи","value":"Семена горчицы","aliases":["семена горчицы"]}
+{"category":"Соусы и специи","value":"Семена гулявника","aliases":["семена гулявника"]}
+{"category":"Соусы и специи","value":"Семена кориандра","aliases":["семена кориандра"]}
+{"category":"Соусы и специи","value":"Семена лотоса","aliases":["семена лотоса"]}
+{"category":"Соусы и специи","value":"Семена мака","aliases":["семена мака"]}
+{"category":"Соусы и специи","value":"Семена сельдерея","aliases":["семена сельдерея"]}
+{"category":"Соусы и специи","value":"Семена тыквы","aliases":["семена тыквы"]}
+{"category":"Соусы и специи","value":"Семена укропа","aliases":["семена укропа"]}
+{"category":"Соусы и специи","value":"Семена фенхеля","aliases":["семена фенхеля"]}
+{"category":"Соусы и специи","value":"Семена чиа","aliases":["семена чиа"]}
+{"category":"Соусы и специи","value":"Семечки подсолнуха","aliases":["семечки подсолнуха"]}
+{"category":"Соусы и специи","value":"Семя конопляное","aliases":["семя конопляное"]}
+{"category":"Соусы и специи","value":"Семя льняное","aliases":["семя льняное","льняное семя"]}
+{"category":"Соусы и специи","value":"Тмин семена","aliases":["тмин семена","семена тмин"]}
+{"category":"Соусы и специи","value":"Уксус","aliases":["уксус"]}
+{"category":"Соусы и специи","value":"Уксус бальзамический","aliases":["уксус бальзамический"]}
+{"category":"Соусы и специи","value":"Уксус винный","aliases":["уксус винный","винный уксус"]}
+{"category":"Соусы и специи","value":"Уксус яблочный","aliases":["уксус яблочный","яблочный уксус"]}
+{"category":"Соусы и специи","value":"Рисовый уксус","aliases":["рисовый уксус","уксус рисовый"]}
+{"category":"Соусы и специи","value":"Горчица","aliases":["горчица"]}
+{"category":"Соусы и специи","value":"Кетчуп","aliases":["кетчуп"]}
+{"category":"Соусы и специи","value":"Майонез","aliases":["майонез"]}
+{"category":"Соусы и специи","value":"Хрен","aliases":["хрен"]}
+{"category":"Соусы и специи","value":"Барбекью соус","aliases":["барбекью соус","соус барбекью"]}
+{"category":"Соусы и специи","value":"Томатная паста","aliases":["томатная паста","паста томатная"]}
+{"category":"Соусы и специи","value":"Сырный соус","aliases":["сырный соус","соус сырный"]}
+{"category":"Соусы и специи","value":"Кисло-сладкий соус","aliases":["кисло-сладкий соус","соус кисло-сладкий"]}
+{"category":"Соусы и специи","value":"Грибной соус","aliases":["грибной соус","соус грибной"]}
+{"category":"Соусы и специи","value":"Чесночный соус","aliases":["чесночный соус","соус чесночный"]}
+{"category":"Чай, кофе и какао","value":"Какао","aliases":["какао"]}
+{"category":"Чай, кофе и какао","value":"Кола","aliases":["кола"]}
+{"category":"Чай, кофе и какао","value":"Кофе","aliases":["кофе"]}
+{"category":"Чай, кофе и какао","value":"Цикорий","aliases":["цикорий"]}
+{"category":"Снеки и орехи","value":"Бразильский орех","aliases":["бразильский орех","орех бразильский"]}
+{"category":"Снеки и орехи","value":"Буковый орешек","aliases":["буковый орешек","орешек буковый"]}
+{"category":"Снеки и орехи","value":"Грецкий орех","aliases":["грецкий орех","орех грецкий"]}
+{"category":"Снеки и орехи","value":"Каштан","aliases":["каштан"]}
+{"category":"Снеки и орехи","value":"Кедровый орех","aliases":["кедровый орех","орех кедровый"]}
+{"category":"Снеки и орехи","value":"Кешью","aliases":["кешью"]}
+{"category":"Снеки и орехи","value":"Миндаль","aliases":["миндаль"]}
+{"category":"Снеки и орехи","value":"Орех макадамия","aliases":["орех макадамия"]}
+{"category":"Снеки и орехи","value":"Орех пили","aliases":["орех пили"]}
+{"category":"Снеки и орехи","value":"Орех серый","aliases":["орех серый"]}
+{"category":"Снеки и орехи","value":"Пекан","aliases":["пекан"]}
+{"category":"Снеки и орехи","value":"Фисташки","aliases":["фисташки"]}
+{"category":"Снеки и орехи","value":"Фундук","aliases":["фундук"]}
+{"category":"Снеки и орехи","value":"Чёрный орех","aliases":["чёрный орех","орех чёрный"]}
+{"category":"Снеки и орехи","value":"Чипсы картофельные","aliases":["чипсы картофельные","картофельные чипсы"]}
+{"category":"Снеки и орехи","value":"Чипсы кукурузные","aliases":["чипсы кукурузные","кукурузные чипсы"]}
+{"category":"Снеки и орехи","value":"Начос","aliases":["начос"]}
+{"category":"Снеки и орехи","value":"Луковые кольца","aliases":["луковые кольца","кольца луковые"]}
+{"category":"Снеки и орехи","value":"Попкорн","aliases":["попкорн"]}
+{"category":"Снеки и орехи","value":"Попкорн карамельный","aliases":["попкорн карамельный"]}
+{"category":"Снеки и орехи","value":"Фруктовые чипсы","aliases":["фруктовые чипсы","чипсы фруктовые"]}
+{"category":"Готовые блюда","value":"Омлет яичный","aliases":["омлет яичный"]}
+{"category":"Готовые блюда","value":"Гамбургер","aliases":["гамбургер"]}
+{"category":"Готовые блюда","value":"Картофель фри","aliases":["картофель фри"]}
+{"category":"Готовые блюда","value":"Хот-дог","aliases":["хот-дог"]}
+{"category":"Готовые блюда","value":"Чизбургер","aliases":["чизбургер"]}
+{"category":"Здоровое питание и диетические продукты","value":"Органические овсяные хлопья","aliases":["органические овсяные хлопья","органические хлопья овсяные"]}
+{"category":"Здоровое питание и диетические продукты","value":"Льняные семена","aliases":["льняные семена","семена льняные"]}
+{"category":"Здоровое питание и диетические продукты","value":"Миндальное масло","aliases":["миндальное масло","масло миндальное"]}
+{"category":"Здоровое питание и диетические продукты","value":"Кокосовая вода","aliases":["кокосовая вода"]}
+{"category":"Здоровое питание и диетические продукты","value":"Квиноа","aliases":["квиноа"]}
+{"category":"Здоровое питание и диетические продукты","value":"Спирулина в порошке","aliases":["спирулина в порошке"]}
+{"category":"Здоровое питание и диетические продукты","value":"Чиа-семена","aliases":["чиа-семена"]}
+{"category":"Здоровое питание и диетические продукты","value":"Куркума корень","aliases":["куркума корень"]}
+{"category":"Здоровое питание и диетические продукты","value":"Ягоды годжи","aliases":["ягоды годжи"]}
+{"category":"Здоровое питание и диетические продукты","value":"Мед натуральный","aliases":["мед натуральный","натуральный мед"]}
+{"category":"Здоровое питание и диетические продукты","value":"Льняное масло","aliases":["льняное масло","масло льняное"]}
+{"category":"Здоровое питание и диетические продукты","value":"Кедровые орехи","aliases":["кедровые орехи"]}
+{"category":"Здоровое питание и диетические продукты","value":"Ржаные хлебцы","aliases":["ржаные хлебцы","хлебцы ржаные"]}
+{"category":"Товары для дома и бытовая химия","value":"Моющее средство для посуды","aliases":["моющее средство для посуды","средство моющее для посуды"]}
+{"category":"Товары для дома и бытовая химия","value":"Средство для уборки полов","aliases":["средство для уборки полов"]}
+{"category":"Товары для дома и бытовая химия","value":"Стиральный порошок","aliases":["стиральный порошок","порошок стиральный"]}
+{"category":"Товары для дома и бытовая химия","value":"Жидкое мыло","aliases":["жидкое мыло","мыло жидкое"]}
+{"category":"Товары для дома и бытовая химия","value":"Очиститель для ванной комнаты","aliases":["очиститель для ванной комнаты","очиститель для комнаты ванной"]}
+{"category":"Товары для дома и бытовая химия","value":"Универсальный чистящий спрей","aliases":["универсальный чистящий спрей","универсальный спрей чистящий"]}
+{"category":"Товары для дома и бытовая химия","value":"Губки для уборки","aliases":["губки для уборки"]}
+{"category":"Товары для дома и бытовая химия","value":"Пленка для упаковки","aliases":["пленка для упаковки"]}
+{"category":"Товары для дома и бытовая химия","value":"Туалетная бумага","aliases":["туалетная бумага","бумага туалетная"]}
+{"category":"Товары для дома и бытовая химия","value":"Жидкость для мытья окон","aliases":["жидкость для мытья окон"]}
+{"category":"Товары для дома и бытовая химия","value":"Освежитель воздуха","aliases":["освежитель воздуха","воздуха освежитель"]}
+{"category":"Товары для дома и бытовая химия","value":"Ковровая пена","aliases":["ковровая пена"]}
+{"category":"Товары для дома и бытовая химия","value":"Средство для удаления пятен","aliases":["средство для удаления пятен"]}
+{"category":"Товары для дома и бытовая химия","value":"Средство для удаления накипи","aliases":["средство для удаления накипи"]}
+{"category":"Товары для дома и бытовая химия","value":"Влажные салфетки для уборки","aliases":["влажные салфетки для уборки","салфетки влажные для уборки"]}
+{"category":"Товары для дома и бытовая химия","value":"Чистящие порошки для унитаза","aliases":["чистящие порошки для унитаза","порошки чистящие для унитаза"]}
+{"category":"Товары для дома и бытовая химия","value":"Освежитель для стирки","aliases":["освежитель для стирки"]}
+{"category":"Товары для дома и бытовая химия","value":"Щетки для уборки","aliases":["щетки для уборки"]}
+{"category":"Товары для дома и бытовая химия","value":"Мешки для мусора","aliases":["мешки для мусора"]}
+{"category":"Красота и гигиена","value":"Шампунь для волос","aliases":["шампунь для волос"]}
+{"category":"Красота и гигиена","value":"Кондиционер для волос","aliases":["кондиционер для волос"]}
+{"category":"Красота и гигиена","value":"Гель для душа","aliases":["гель для душа"]}
+{"category":"Красота и гигиена","value":"Зубная паста","aliases":["зубная паста","паста зубная"]}
+{"category":"Красота и гигиена","value":"Зубная щетка","aliases":["зубная щетка","щетка зубная"]}
+{"category":"Красота и гигиена","value":"Дезодорант","aliases":["дезодорант"]}
+{"category":"Красота и гигиена","value":"Крем для рук","aliases":["крем для рук"]}
+{"category":"Красота и гигиена","value":"Крем для лица","aliases":["крем для лица"]}
+{"category":"Красота и гигиена","value":"Гигиенические прокладки","aliases":["гигиенические прокладки","прокладки гигиенические"]}
+{"category":"Красота и гигиена","value":"Тампоны","aliases":["тампоны"]}
+{"category":"Красота и гигиена","value":"Бритвенный станок","aliases":["бритвенный станок","станок бритвенный"]}
+{"category":"Красота и гигиена","value":"Пена для бритья","aliases":["пена для бритья"]}
+{"category":"Красота и гигиена","value":"Ватные диски","aliases":["ватные диски","диски ватные"]}
+{"category":"Красота и гигиена","value":"Лосьон после бритья","aliases":["лосьон после бритья"]}
+{"category":"Красота и гигиена","value":"Мыло для рук","aliases":["мыло для рук"]}
+{"category":"Красота и гигиена","value":"Средство для снятия макияжа","aliases":["средство для снятия макияжа"]}
+{"category":"Красота и гигиена","value":"Косметические салфетки","aliases":["косметические салфетки","салфетки косметические"]}
+{"category":"Красота и гигиена","value":"Солнцезащитный крем","aliases":["солнцезащитный крем","крем солнцезащитный"]}
+{"category":"Красота и гигиена","value":"Гигиеническая помада","aliases":["гигиеническая помада","помада гигиеническая"]}
+{"category":"Красота и гигиена","value":"Туалетная бумага","aliases":["туалетная бумага","бумага туалетная"]}
+{"category":"Товары для детей","value":"Подгузники","aliases":["подгузники"]}
+{"category":"Товары для детей","value":"Детское питание","aliases":["детское питание","питание детское"]}
+{"category":"Товары для детей","value":"Игрушки","aliases":["игрушки"]}
+{"category":"Товары для детей","value":"Детская одежда","aliases":["детская одежда","одежда детская"]}
+{"category":"Товары для детей","value":"Детская обувь","aliases":["детская обувь","обувь детская"]}
+{"category":"Товары для детей","value":"Коляски","aliases":["коляски"]}
+{"category":"Товары для детей","value":"Автокресла","aliases":["автокресла"]}
+{"category":"Товары для детей","value":"Детская косметика","aliases":["детская косметика","косметика детская"]}
+{"category":"Товары для детей","value":"Игровые коврики","aliases":["игровые коврики","коврики игровые"]}
+{"category":"Товары для детей","value":"Детские книги","aliases":["детские книги","книги детские"]}
+{"category":"Товары для детей","value":"Детская мебель","aliases":["детская мебель","мебель детская"]}
+{"category":"Товары для детей","value":"Детская посуда","aliases":["детская посуда","посуда детская"]}
+{"category":"Товары для детей","value":"Пеленки и полотенца","aliases":["пеленки и полотенца"]}
+{"category":"Товары для детей","value":"Детские шампуни и гели для купания","aliases":["детские шампуни и гели для купания","шампуни детские и гели для купания"]}
+{"category":"Товары для детей","value":"Детские кремы и лосьоны","aliases":["детские кремы и лосьоны","кремы детские и лосьоны"]}
+{"category":"Товары для детей","value":"Прорезыватели","aliases":["прорезыватели"]}
+{"category":"Товары для животных","value":"Корм сухой для собак","aliases":["корм сухой для собак","сухой корм для собак"]}
+{"category":"Товары для животных","value":"Корм влажный для собак","aliases":["корм влажный для собак","влажный корм для собак"]}
+{"category":"Товары для животных","value":"Корм сухой для кошек","aliases":["корм сухой для кошек","сухой корм для кошек"]}
+{"category":"Товары для животных","value":"Корм влажный для кошек","aliases":["корм влажный для кошек","влажный корм для кошек"]}
+{"category":"Товары для животных","value":"Лакомства для животных","aliases":["лакомства для животных"]}
+{"category":"Товары для животных","value":"Игрушки для животных","aliases":["игрушки для животных"]}
+{"category":"Товары для животных","value":"Миски для корма","aliases":["миски для корма"]}
+{"category":"Товары для животных","value":"Наполнитель для кошачьего лотка","aliases":["наполнитель для кошачьего лотка","наполнитель для лотка кошачьего"]}
+{"category":"Товары для животных","value":"Поводки для собак","aliases":["поводки для собак"]}
+{"category":"Товары для животных","value":"Ошейники для собак","aliases":["ошейники для собак"]}
+{"category":"Товары для животных","value":"Когтеточки для кошек","aliases":["когтеточки для кошек"]}
+{"category":"Товары для животных","value":"Витамины для животных","aliases":["витамины для животных"]}
+{"category":"Товары для животных","value":"Щетки для ухода за шерстью","aliases":["щетки для ухода за шерстью"]}
+{"category":"Товары для животных","value":"Шампуни для животных","aliases":["шампуни для животных"]}
+{"category":"Товары для животных","value":"Аквариумы для рыб","aliases":["аквариумы для рыб"]}
+{"category":"Товары для животных","value":"Клетки для грызунов","aliases":["клетки для грызунов"]}
+{"category":"Товары для животных","value":"Клетки для птиц","aliases":["клетки для птиц"]}
+{"category":"Товары для животных","value":"Песок для грызунов","aliases":["песок для грызунов"]}
+{"category":"Товары для животных","value":"Средства от блох и клещей","aliases":["средства от блох и клещей"]}
+{"category":"Товары для животных","value":"Одежда для собак","aliases":["одежда для собак"]}
